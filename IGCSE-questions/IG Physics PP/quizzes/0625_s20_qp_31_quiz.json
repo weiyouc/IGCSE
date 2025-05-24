@@ -1,0 +1,62 @@
+{
+  "title": "IGCSE Physics Summer 2020 Paper 31",
+  "subject": "Physics",
+  "description": "Cambridge IGCSE Physics Past Paper 0625_s20_qp_31",
+  "duration": 45,
+  "difficultyLevel": "intermediate",
+  "isPublished": true,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionText": "Fig. 1.1 shows a coil of wire. length of coil Fig. 1.1 (not to scale) (a)",
+      "options": {
+        "A": "student measures the length of the coil using a ruler. His measurement is 3.8 cm. There are 20 turns of wire in the coil. The student uses his measurement to calculate the average thickness of the wire. (i) Show that the average thickness of the wire is about 0.2 cm. \n\n average thickness of wire = .................................................. cm [2] (ii) The student\u2019s measurement of 3.8 cm is inaccurate. Suggest one reason why the measurement is inaccurate. ........................................................................................................................................... ..................................................................................................................................... [1] (b) The volume of the wire in the coil is 16.6 cm^3 and its mass is 148 g. Calculate the density of the metal used for the wire in the coil. \n\n density = ............................................. g / cm 3 [3] \n\n\n**\u00a9UCLES 2020 0625/31/M/J/20 [Turn over** \n\n (c) The student has a measuring cylinder and a beaker of water, as shown in Fig. 1.2. \n\n measuring cylinder \n\n coil beaker of water \n\n Fig. 1.2 Describe how the student can determine the volume of the coil by using the equipment shown in Fig. 1.2. ................................................................................................................................................... ................................................................................................................................................... ................................................................................................................................................... ................................................................................................................................................... ................................................................................................................................................... ............................................................................................................................................. [4] [Total: 10] \n\n\n**\u00a9UCLES 2020 0625/31/M/J/20** \n\n**2 (a)**"
+      }
+    },
+    {
+      "questionNumber": 3,
+      "questionText": "Some gas molecules are in a box at room temperature. Fig. 3.1 shows the position of some of the molecules and the direction of movement of each molecule. wall of box Fig. 3.1 (a) (i)",
+      "options": {
+        "D": "escribe the movement of the gas molecules. ........................................................................................................................................... ........................................................................................................................................... ..................................................................................................................................... [2] (ii)",
+        "C": "LES 2020 0625/31/M/J/20** \n\n**4 (a)**"
+      }
+    },
+    {
+      "questionNumber": 5,
+      "questionText": "",
+      "options": {
+        "A": "metre rule is balanced on a pivot by three vertical forces, as shown in Fig. 5.1. \n\n## 5.0 N \n\n 40 cm \n\n pivot weight of rule = 2.0^ N \n\n## F \n\n 10 cm \n\n 100 cm \n\n Fig. 5.1 (not to scale) (a) Show that the moment of the 5.0 N force about the pivot is 200 N cm. \n\n## [2] \n\n (b) Calculate the size of force F. \n\n## F = .................................................... N [4] \n\n [Total: 6] \n\n\n**\u00a9UCLES 2020 0625/31/M/J/20**"
+      }
+    },
+    {
+      "questionNumber": 6,
+      "questionText": "Fig. 6.1 shows a liquid-in-glass thermometer. liquid liquid ice point ## \u201310 0 10 20 30 40 50 60 70 80 90 100 110 Fig. 6.1 (a) (i) This thermometer is used for measuring temperatures in science experiments. State the unit for measuring temperature. ..................................................................................................................................... [1] (ii) On Fig. 6.1, an arrow points to the temperature reading when the thermometer is placed in pure melting ice. This is labelled ice point. On Fig. 6.1, draw an arrow pointing to the temperature reading when the thermometer is at the upper fixed point. Label this arrow steam point. [1] (b)",
+      "options": {
+        "A": "liquid-in-glass thermometer uses the property of expansion of a liquid to measure temperature. State one other application or consequence of thermal expansion. ................................................................................................................................................... ............................................................................................................................................. [1] (c)",
+        "B": "positioned 20 cm from a thin converging lens. Both principal focuses of the lens are labelled F. \n\n##"
+      }
+    },
+    {
+      "questionNumber": 8,
+      "questionText": "Fig. 8.1 represents the pressure at one instant along part of a sound wave. ## 20 40 60 80 100 120 distance / cm direction of wave travel normal airpressure above normalair pressure below normalair pressure Fig. 8.1 (a) (i)",
+      "options": {
+        "A": "student investigates the electrical resistance of some components. Fig. 10.1 shows an incomplete diagram of the circuit used by the student. \n\n## Y \n\n Fig. 10.1 (i) State the term used for component Y. ............................................. [1] (ii) The student uses the circuit to measure the resistance of component Y. Complete the diagram in Fig. 10.1 by adding electrical symbols to show an ammeter and a voltmeter correctly connected to determine the resistance of component Y. [3] (b) Fig. 10.2 shows two resistors",
+        "B": "are connected in series. State the value of their combined resistance. ................................................................................................................................. \u03a9 [1] (ii) Resistor"
+      }
+    },
+    {
+      "questionNumber": 11,
+      "questionText": "",
+      "options": {
+        "A": "teacher uses a power supply in a metal case. The circuit for the power supply includes a fuse. **(a) (i)** Draw the electrical symbol for a fuse. [1] \n\n (ii) The metal case of the power supply is earthed."
+      }
+    },
+    {
+      "questionNumber": 12,
+      "questionText": "Radioactive sources emit \u03b1-(alpha), \u03b2-(beta) and \u03b3-(gamma) radiations. **(a)** State which of these types of radiation can pass through paper. ............................................................................................................................................. [1] **(b)**",
+      "options": {
+        "A": "radioactive source contains 36 mg of this isotope. Calculate the mass of the isotope that remains in the source after 9 minutes. mass of the isotope remaining = .................................................. mg [3] [Total: 5]"
+      }
+    }
+  ]
+}

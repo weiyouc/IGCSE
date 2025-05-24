@@ -1,0 +1,406 @@
+{
+  "title": "IGCSE Physics Summer 2020 Paper 23",
+  "subject": "Physics",
+  "description": "Cambridge IGCSE Physics Past Paper 0625_s20_qp_23",
+  "duration": 45,
+  "difficultyLevel": "intermediate",
+  "isPublished": true,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionText": "",
+      "options": {
+        "A": "120 cm^3",
+        "B": "168 cm^3",
+        "C": "264 cm^3",
+        "D": "1155 cm^3 \n\n\n\u00a9 UCLES 2020 0625/23/M/J/20 **[Turn over**"
+      }
+    },
+    {
+      "questionNumber": 2,
+      "questionText": "",
+      "options": {
+        "A": "The acceleration is not constant.",
+        "B": "The acceleration is negative.",
+        "C": "The speed is decreasing.",
+        "D": "The velocity is constant."
+      }
+    },
+    {
+      "questionNumber": 3,
+      "questionText": "Which statement about acceleration is correct?",
+      "options": {
+        "A": "It is related to the changing speed of an object.",
+        "B": "It is the distance an object travels in one second.",
+        "C": "It is the force acting on an object divided by the distance it travels in one second.",
+        "D": "It is the force acting on an object when it is near to the Earth."
+      }
+    },
+    {
+      "questionNumber": 4,
+      "questionText": "Which statement correctly describes the effects of placing a heavy load in a car?",
+      "options": {
+        "A": "It is easier to accelerate the car and easier to bring the car to rest.",
+        "B": "It is easier to accelerate the car but more difficult to bring the car to rest.",
+        "C": "It is more difficult to accelerate the car and more difficult to bring the car to rest.",
+        "D": "It is more difficult to accelerate the car but easier to bring the car to rest. \n\n\n\u00a9 UCLES 2020 0625/23/M/J/20"
+      }
+    },
+    {
+      "questionNumber": 5,
+      "questionText": "Which row gives the correct weight for the mass shown? The value of _g_ is 10 N / kg. mass / kg weight / N",
+      "options": {
+        "A": "2 20",
+        "B": "10 1",
+        "C": "10 10",
+        "D": "20 2"
+      }
+    },
+    {
+      "questionNumber": 6,
+      "questionText": "",
+      "options": {
+        "A": "0.00012 kg",
+        "B": "100 kg",
+        "C": "8300 kg",
+        "D": "12 000 kg"
+      }
+    },
+    {
+      "questionNumber": 7,
+      "questionText": "Which moving object has a resultant force acting on it?",
+      "options": {
+        "A": "a diver rising vertically through water at constant speed",
+        "B": "an aircraft circling an airport at constant speed",
+        "C": "a parachutist descending vertically at terminal velocity",
+        "D": "a train going up a straight slope at constant speed"
+      }
+    },
+    {
+      "questionNumber": 8,
+      "questionText": "Which quantity is **not** a vector?",
+      "options": {
+        "A": "acceleration",
+        "B": "temperature",
+        "C": "velocity",
+        "D": "weight \n\n\n\u00a9 UCLES 2020 0625/23/M/J/20 **[Turn over**"
+      }
+    },
+    {
+      "questionNumber": 9,
+      "questionText": "",
+      "options": {
+        "A": "0.50 kg m / s downwards",
+        "B": "0.50 kg m / s upwards",
+        "C": "3.5 kg m / s downwards",
+        "D": "3.5 kg m / s upwards"
+      }
+    },
+    {
+      "questionNumber": 10,
+      "questionText": "",
+      "options": {
+        "A": "mass bounces up and down on a steel spring. The diagram shows the mass and the spring at different points during the motion. \n\n highest point \n\n lowest point \n\n mass moving down \n\n mass moving up \n\n At which point does the mass have the least gravitational potential energy and at which point is the most elastic energy stored in the spring? least amount of gravitational potential energy \n\n most elastic energystored in spring",
+        "B": "mass moving down lowest point",
+        "C": "lowest point mass moving up",
+        "D": "lowest point lowest point \n\n\n\u00a9 UCLES 2020 0625/23/M/J/20"
+      }
+    },
+    {
+      "questionNumber": 11,
+      "questionText": "The velocity _v_ of an object increases as it falls towards the ground. Which quantity is directly proportional to _v_^2?",
+      "options": {
+        "A": "the speed of the object",
+        "B": "the gravitational potential energy of the object",
+        "C": "the kinetic energy of the object",
+        "D": "the momentum of the object"
+      }
+    },
+    {
+      "questionNumber": 12,
+      "questionText": "The diagram shows a solid block resting on a bench. The dimensions of the block are shown. 80 cm^ bench 20 cm 40 cm #### P R #### Q On which labelled surface should the block rest to produce the smallest pressure on the bench?",
+      "options": {
+        "A": "P",
+        "B": "Q",
+        "C": "R",
+        "D": "P, Q and R produce the same pressure"
+      }
+    },
+    {
+      "questionNumber": 13,
+      "questionText": "",
+      "options": {
+        "A": "100 000 Pa",
+        "B": "500 000 Pa",
+        "C": "1 000 000 Pa",
+        "D": "5 000 000 Pa \n\n\n\u00a9 UCLES 2020 0625/23/M/J/20 **[Turn over**"
+      }
+    },
+    {
+      "questionNumber": 14,
+      "questionText": "When a molecule rebounds from a wall, a force is exerted on the wall. What causes this force?",
+      "options": {
+        "A": "the kinetic energy gained by the molecule",
+        "B": "the kinetic energy lost by the molecule",
+        "C": "the change of momentum of the molecule",
+        "D": "the change of speed of the molecule"
+      }
+    },
+    {
+      "questionNumber": 15,
+      "questionText": "The relationship between pressure _p_ and volume _V_ of a gas is given as _pV_ = constant. Under which conditions for the mass of a gas and for its temperature does the equation hold? mass temperature",
+      "options": {
+        "A": "changing changing",
+        "B": "changing constant",
+        "C": "constant changing",
+        "D": "constant constant"
+      }
+    },
+    {
+      "questionNumber": 16,
+      "questionText": "The diagram shows a liquid-in-glass thermometer. X Y Which row gives the correct labels for the thermometer? X Y",
+      "options": {
+        "A": "water narrow tube of uniform diameter",
+        "B": "alcohol narrow tube of uniform diameter",
+        "C": "water this end immersed in substance to be measured",
+        "D": "alcohol this end immersed in substance to be measured \n\n\n\u00a9 UCLES 2020 0625/23/M/J/20"
+      }
+    },
+    {
+      "questionNumber": 17,
+      "questionText": "The diagrams show four blocks of steel. The blocks are all drawn to the same scale. The same quantity of thermal energy is given to each block. Which block shows the greatest rise in temperature? **",
+      "options": {
+        "A": "B",
+        "C": "D**"
+      }
+    },
+    {
+      "questionNumber": 18,
+      "questionText": "Why are metals better conductors of thermal energy than non-metals?",
+      "options": {
+        "A": "They contain free electrons.",
+        "B": "Their molecules are further apart.",
+        "C": "Their molecules vibrate at a higher frequency.",
+        "D": "They have smoother surfaces."
+      }
+    },
+    {
+      "questionNumber": 19,
+      "questionText": "The diagram shows a vacuum flask used to keep a liquid warm. airtight lid outer cover vacuum silvered walls Which methods of heat loss are reduced by the vacuum between the silvered walls?",
+      "options": {
+        "A": "conduction only",
+        "B": "conduction and convection only",
+        "C": "convection and radiation only",
+        "D": "conduction, convection and radiation \n\n\n\u00a9 UCLES 2020 0625/23/M/J/20 **[Turn over**"
+      }
+    },
+    {
+      "questionNumber": 20,
+      "questionText": "",
+      "options": {
+        "A": "1.3 \u00d7 10 \u20134^ m",
+        "B": "2.1 \u00d7 10 \u20134^ m",
+        "C": "4.8 \u00d7 10 3 m",
+        "D": "7.5 \u00d7 10 3 m"
+      }
+    },
+    {
+      "questionNumber": 21,
+      "questionText": "The diagram shows a wave. 8 cm 4 cm 3 cm 6 cm What are the amplitude and the wavelength of this wave? amplitude / cm wavelength / cm",
+      "options": {
+        "A": "3 4",
+        "B": "3 8",
+        "C": "6 4",
+        "D": "6 8"
+      }
+    },
+    {
+      "questionNumber": 22,
+      "questionText": "Which statement is correct?",
+      "options": {
+        "A": "The speed of light in glass is equal to the speed of light in a vacuum multiplied by the refractive index of glass.",
+        "B": "The incident angle of a light ray at an air-glass surface is the angle between the ray and the glass surface.",
+        "C": "The sine of the critical angle at an air-glass surface is equal to (^) refractiveindex^1 ofglass.",
+        "D": "The angle of refraction for light passing through an air-glass surface is proportional to theangle of incidence at that surface. \n\n\n\u00a9 UCLES 2020 0625/23/M/J/20"
+      }
+    },
+    {
+      "questionNumber": 23,
+      "questionText": "Which statement about converging lenses is correct?",
+      "options": {
+        "A": "A real image of an object projected onto a screen by a converging lens is always inverted.",
+        "B": "The image formed by a converging lens is always upright.",
+        "C": "The image formed by a converging lens when used as a magnifying glass is a real image.",
+        "D": "Parallel rays entering a converging lens are focused at a distance greater than the focal length from the lens."
+      }
+    },
+    {
+      "questionNumber": 24,
+      "questionText": "",
+      "options": {
+        "A": "infrared",
+        "B": "radio",
+        "C": "ultraviolet",
+        "D": "visible light"
+      }
+    },
+    {
+      "questionNumber": 25,
+      "questionText": "Two people are standing outdoors on either side of a high wall. person 1 person 2 Person 1 can hear person 2 talking although he cannot see her. Which statement explains this?",
+      "options": {
+        "A": "The sound waves have diffracted around the wall.",
+        "B": "The sound waves have passed unaffected through the wall.",
+        "C": "The sound waves have reflected around the wall.",
+        "D": "The sound waves have refracted around the wall. \n\n\n\u00a9 UCLES 2020 0625/23/M/J/20 **[Turn over**"
+      }
+    },
+    {
+      "questionNumber": 26,
+      "questionText": "Four nails",
+      "options": {
+        "A": ",",
+        "B": ",",
+        "C": "and",
+        "D": "are tested to find which makes the strongest permanent magnet. One of the nails is placed against a bar magnet and the number of paper clips which the nail can support is recorded. \n\n N S \n\n nail \n\n bar magnet \n\n paper clips \n\n The bar magnet is then removed and the number of paper clips remaining attached to the nail is recorded. Each nail is tested individually. Which nail becomes the strongest permanent magnet? number of paper clips attached to the nail bar magnet present bar magnet removed A 2 0 B 2 1 C 4 3 D 5 2 \n\n\n\u00a9 UCLES 2020 0625/23/M/J/20"
+      }
+    },
+    {
+      "questionNumber": 27,
+      "questionText": "The diagrams show a magnetised steel rod inside a solenoid connected to a potentiometer. In diagram 1, the potentiometer is connected to a d.c. power supply. In diagram 2, the potentiometer is connected to an a.c. power supply. d.c. diagram 1 #### P Q a.c. diagram 2 #### R S magnetised steel magnetised steel Which action would demagnetise the piece of steel?",
+      "options": {
+        "A": "In diagram 1, move the potentiometer slide from P to Q.",
+        "B": "In diagram 1, move the potentiometer slide from Q to P.",
+        "C": "In diagram 2, move the potentiometer slide from R to S.",
+        "D": "In diagram 2, move the potentiometer slide from S to R."
+      }
+    },
+    {
+      "questionNumber": 28,
+      "questionText": "The diagram shows a positively charged conducting sphere and a wire connected to earth. + + #### + #### + #### + #### + earth (^) insulating support positively charged sphere wire What happens when the wire is touched onto the sphere?",
+      "options": {
+        "A": "Electrons flow from earth to the sphere.",
+        "B": "Electrons flow from the sphere to earth.",
+        "C": "Positive charges flow from earth to the sphere.",
+        "D": "Positive charges flow from the sphere to earth. \n\n\n\u00a9 UCLES 2020 0625/23/M/J/20 **[Turn over**"
+      }
+    },
+    {
+      "questionNumber": 29,
+      "questionText": "",
+      "options": {
+        "A": "student uses the circuit shown to determine the resistance of two identical resistors. \n\n####",
+        "B": "0.55 \u03a9",
+        "C": "4.4 \u03a9",
+        "D": "8.8 \u03a9"
+      }
+    },
+    {
+      "questionNumber": 30,
+      "questionText": "There is a current of 2.0",
+      "options": {
+        "A": "0.25 W",
+        "B": "4.0 W",
+        "C": "16 W",
+        "D": "32 W"
+      }
+    },
+    {
+      "questionNumber": 31,
+      "questionText": "The lamps, the diodes and the batteries in the circuits are identical. In which circuit does the ammeter give the greatest reading? **",
+      "options": {
+        "A": "B",
+        "C": "D** \n\n####"
+      }
+    },
+    {
+      "questionNumber": 32,
+      "questionText": "Two resistors are connected in series with a power supply. Which statement about the circuit is correct?",
+      "options": {
+        "A": "The current from the supply is greater than the current in each resistor.",
+        "B": "The current from the supply is equal to the current in each resistor.",
+        "C": "The current from the supply is less than the current in each resistor.",
+        "D": "The current from the supply is the sum of the currents in each resistor. \n\n\n\u00a9 UCLES 2020 0625/23/M/J/20"
+      }
+    },
+    {
+      "questionNumber": 33,
+      "questionText": "Which two logic gates each have a high output when both of their inputs are high?",
+      "options": {
+        "A": "AND and OR",
+        "B": "AND and NOR",
+        "C": "NAND and NOR",
+        "D": "NAND and OR"
+      }
+    },
+    {
+      "questionNumber": 34,
+      "questionText": "The diagram shows a series of logic gates and part of its corresponding truth table. R #### S #### T #### P #### Q #### P Q R S T #### 0 0 0 0 1 #### 0 1 #### 1 0 0 1 1 #### 1 1 1 1 0 What are the missing values in row 2 of the truth table?",
+      "options": {
+        "A": "0 1 0",
+        "B": "0 1 1",
+        "C": "1 0 0",
+        "D": "1 1 1 \n\n\n\u00a9 UCLES 2020 0625/23/M/J/20 **[Turn over**"
+      }
+    },
+    {
+      "questionNumber": 35,
+      "questionText": "The graphs show how the currents in three circuits vary with time. 1.5 1.0 0.5 0.0 \u20130.5 \u20131.0 \u20131.5 time circuit 2 current /",
+      "options": {
+        "A": "#### 1.5 \n\n#### 1.0 \n\n#### 0.5 \n\n#### 0.0 \n\n#### \u20130.5 \n\n#### \u20131.0 \n\n \u20131.5 time \n\n circuit 1 current /",
+        "B": "1 and 3",
+        "C": "2 only",
+        "D": "3 only \n\n\n\u00a9 UCLES 2020 0625/23/M/J/20"
+      }
+    },
+    {
+      "questionNumber": 36,
+      "questionText": "The coil of a simple a.c. generator rotates steadily in a uniform magnetic field. The diagram shows the position of the coil at time _t_ = 0. ## N S coil Which graph shows the output voltage for one revolution of the coil? (^00) ####",
+      "options": {
+        "A": "#### V \n\n t^0 \n\n#### 0 \n\n####",
+        "B": "#### V \n\n t \n\n(^00) \n\n####",
+        "C": "#### V \n\n t^0 \n\n#### 0 \n\n####",
+        "D": "#### V \n\n t"
+      }
+    },
+    {
+      "questionNumber": 37,
+      "questionText": "What occurs during nuclear fusion?",
+      "options": {
+        "A": "Two light atomic nuclei join together and emit energy.",
+        "B": "Two light atomic nuclei join together and absorb energy.",
+        "C": "A heavy atomic nucleus splits and emits energy.",
+        "D": "A heavy atomic nucleus splits and absorbs energy. \n\n\n\u00a9 UCLES 2020 0625/23/M/J/20"
+      }
+    },
+    {
+      "questionNumber": 38,
+      "questionText": "",
+      "options": {
+        "A": "1.0 \u00d7 10 10",
+        "B": "4.0 \u00d7 10 10",
+        "C": "6.0 \u00d7 10 10",
+        "D": "7.0 \u00d7 10 10"
+      }
+    },
+    {
+      "questionNumber": 39,
+      "questionText": "",
+      "options": {
+        "A": "thin sheet of paper is placed between a radioactive source and a radiation detector. The count rate falls to a very low reading. \n\n source \n\n paper detector \n\n counter From this result, which type of radiation is the source emitting?",
+        "B": "\u03b2-particles",
+        "C": "\u03b3-rays",
+        "D": "X-rays"
+      }
+    },
+    {
+      "questionNumber": 40,
+      "questionText": "\u03b1-particles, \u03b2-particles and \u03b3-rays are emitted by radioactive nuclei when they decay. Which emissions can be deflected by an electric field?",
+      "options": {
+        "A": "\u03b1-particles and \u03b2-particles only",
+        "B": "\u03b2-particles and \u03b3-rays only",
+        "C": "\u03b3-rays and \u03b1-particles only",
+        "D": "\u03b1-particles, \u03b2-particles and \u03b3-rays \n\n\n\u00a9 UCLES 2020 0625/23/M/J/20 \n\n#### BLANK PAGE \n\n\n\u00a9 UCLES 2020 0625/23/M/J/20 \n\n#### BLANK PAGE \n\n\nPermission to reproduce items where third-party owned material protected by copyright is included has been sought and cleared where possible. Everyreasonable effort has been made by the publisher (UCLES) to trace copyright holders, but if any items requiring clearance have unwittingly been included, the publisher will be pleased to make amends at the earliest possible opportunity. To avoid the issue of disclosure of answer-related information to candidates, all copyright acknowledgements are reproduced online in the CambridgeAssessment International Education Copyright Acknowledgements Booklet. This is produced for each series of examinations and is freely available to download at [http://www.cambridgeinternational.org](http://www.cambridgeinternational.org) after the live examination series. Cambridge Assessment International Education is part of the Cambridge Assessment Group. Cambridge Assessment is the brand name of the University ofCambridge Local Examinations Syndicate (UCLES), which itself is a department of the University of Cambridge. \u00a9 UCLES 2020 0625/23/M/J/20 \n\n#### BLANK PAGE"
+      }
+    }
+  ]
+}

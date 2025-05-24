@@ -1,0 +1,443 @@
+{
+  "title": "IGCSE Physics Summer 2020 Paper 22",
+  "subject": "Physics",
+  "description": "Cambridge IGCSE Physics Past Paper 0625_s20_qp_22",
+  "duration": 45,
+  "difficultyLevel": "intermediate",
+  "isPublished": true,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionText": "Five athletes P, Q, R, S and T compete in a race. The table shows the finishing times for theathletes. athlete P Q R S T finishing time / s 22.50 24.40 25.20 26.50 23.20 Which statement is correct?",
+      "options": {
+        "A": "Athlete P won the race and was 0.70 s ahead of the athlete in second place.",
+        "B": "Athlete P won the race and was 1.90 s ahead of the athlete in second place.",
+        "C": "Athlete S won the race and was 1.30 s ahead of the athlete in second place.",
+        "D": "Athlete S won the race and was 2.10 s ahead of the athlete in second place."
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "questionNumber": 2,
+      "questionText": "",
+      "options": {
+        "A": "The acceleration is not constant.",
+        "B": "The acceleration is negative.",
+        "C": "The speed is decreasing.",
+        "D": "The velocity is constant."
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "questionNumber": 3,
+      "questionText": "Which statement about acceleration is correct?",
+      "options": {
+        "A": "It is related to the changing speed of an object.",
+        "B": "It is the distance an object travels in one second.",
+        "C": "It is the force acting on an object divided by the distance it travels in one second.",
+        "D": "It is the force acting on an object when it is near to the Earth. \n\n\n\u00a9 UCLES 2020 0625/22/M/J/20 **[Turn over**"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "questionNumber": 4,
+      "questionText": "Which statement correctly describes the effects of placing a heavy load in a car?",
+      "options": {
+        "A": "It is easier to accelerate the car and easier to bring the car to rest.",
+        "B": "It is easier to accelerate the car but more difficult to bring the car to rest.",
+        "C": "It is more difficult to accelerate the car and more difficult to bring the car to rest.",
+        "D": "It is more difficult to accelerate the car but easier to bring the car to rest."
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "questionNumber": 5,
+      "questionText": "",
+      "options": {
+        "A": "decreased decreased",
+        "B": "decreased unchanged",
+        "C": "unchanged decreased",
+        "D": "unchanged unchanged"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "questionNumber": 6,
+      "questionText": "Water has a density of 1000 kg / m^3.",
+      "options": {
+        "A": "2.5 kg",
+        "B": "400 kg",
+        "C": "400 000 kg",
+        "D": "800 000 kg"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "questionNumber": 7,
+      "questionText": "",
+      "options": {
+        "A": "The resultant force on the satellite is zero.",
+        "B": "The resultant force on the satellite is towards the Earth.",
+        "C": "The resultant force on the satellite is away from the Earth.",
+        "D": "The resultant force on the satellite is in the direction of motion. \n\n\n\u00a9 UCLES 2020 0625/22/M/J/20"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "questionNumber": 8,
+      "questionText": "Two forces P and Q act on an object. Which diagram shows the resultant of these two forces? **",
+      "options": {
+        "A": "B",
+        "C": "D** \n\n### P P P P \n\n### Q Q Q Q \n\n resultant resultant resultant resultant"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "questionNumber": 9,
+      "questionText": "",
+      "options": {
+        "A": "\u201335 kg m / s",
+        "B": "\u20135.0 kg m / s",
+        "C": "+5.0 kg m / s",
+        "D": "+35 kg m / s"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "questionNumber": 10,
+      "questionText": "Which energy resource is **not** renewable?",
+      "options": {
+        "A": "geothermal",
+        "B": "nuclear fission",
+        "C": "solar",
+        "D": "wind"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "questionNumber": 11,
+      "questionText": "",
+      "options": {
+        "A": "car of mass 500increases to 16 m / s. kg is moving at 10 m / s. The engine does work on the car and the speed \n\n How much work is done by the engine to increase the speed of the car?",
+        "B": "9000 J",
+        "C": "39 000 J",
+        "D": "78 000 J \n\n\n\u00a9 UCLES 2020 0625/22/M/J/20 **[Turn over**"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "questionNumber": 12,
+      "questionText": "The diagram shows a solid block resting on a bench. The dimensions of the block are shown. 80 cm^ bench 20 cm 40 cm ### P R ### Q On which labelled surface should the block rest to produce the smallest pressure on the bench?",
+      "options": {
+        "A": "P",
+        "B": "Q",
+        "C": "R",
+        "D": "P, Q and R produce the same pressure"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "questionNumber": 13,
+      "questionText": "",
+      "options": {
+        "A": "15 kg / m^3",
+        "B": "540 kg / m^3",
+        "C": "1500 kg / m^3",
+        "D": "54 000 kg / m^3"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "questionNumber": 14,
+      "questionText": "Which row describes the forces between the molecules and the motion of the molecules in asolid? forces between molecules motion of molecules",
+      "options": {
+        "A": "strong move freely",
+        "B": "strong vibrate only",
+        "C": "weak move freely",
+        "D": "weak vibrate only \n\n\n\u00a9 UCLES 2020 0625/22/M/J/20"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "questionNumber": 15,
+      "questionText": "Wet clothes are hanging outside to dry. Which condition decreases the rate of evaporation of the water from the clothes?",
+      "options": {
+        "A": "folded clothes",
+        "B": "higher temperature",
+        "C": "wetter clothes",
+        "D": "windy day"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "questionNumber": 16,
+      "questionText": "The diagram shows a liquid-in-glass thermometer. \u201310 0 10 20 30 40 50 60 70 80 90 100 glass bulb stem capillary tube liquid The design of this thermometer includes the following features. 1 a liquid which expands linearly when it is heated 2 a glass bulb which has a thick glass wall 3 a capillary tube with a very small diameter Which features increase the sensitivity of the thermometer?",
+      "options": {
+        "A": "1 only",
+        "B": "1 and 2",
+        "C": "2 and 3",
+        "D": "3 only"
+      },
+      "correctAnswer": "D"
+    },
+    {
+      "questionNumber": 17,
+      "questionText": "The diagrams show four blocks of steel. The blocks are all drawn to the same scale. The same quantity of thermal energy is given to each block. Which block shows the greatest rise in temperature? **",
+      "options": {
+        "A": "B",
+        "C": "D** \n\n\n\u00a9 UCLES 2020 0625/22/M/J/20 **[Turn over**"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "questionNumber": 18,
+      "questionText": "",
+      "options": {
+        "A": "room is heated by a radiator. The diagrams X and Y show two possible circulations of hot air,which heat the room. \n\n diagram X \n\n radiator \n\n diagram Y \n\n radiator \n\n ceiling \n\n floor \n\n ceiling \n\n floor \n\n Which diagram and reason explain the heating of the room by convection? diagram reason",
+        "B": "X air density increases when air is heated",
+        "C": "Y air density decreases when air is heated",
+        "D": "Y air density increases when air is heated"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "questionNumber": 19,
+      "questionText": "Two copper containers P and Q are filled with hot water. The diagrams are both drawn to the same scale. ### P Q",
+      "options": {
+        "A": "The surfaces of P are painted white and the surfaces of Q are painted black.",
+        "B": "The surfaces of P are shiny and the surfaces of Q are dull.",
+        "C": "The surfaces of P have a smaller area than the surfaces of Q.",
+        "D": "The water in P is hotter than the water in Q. \n\n\n\u00a9 UCLES 2020 0625/22/M/J/20"
+      },
+      "correctAnswer": "D"
+    },
+    {
+      "questionNumber": 20,
+      "questionText": "The diagram shows a wave. 8 cm 4 cm 3 cm 6 cm What are the amplitude and the wavelength of this wave? amplitude / cm wavelength / cm",
+      "options": {
+        "A": "3 4",
+        "B": "3 8",
+        "C": "6 4",
+        "D": "6 8"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "questionNumber": 21,
+      "questionText": "The frequency of the microwaves used in a microwave oven is 2400 MHz. What is the wavelength of these microwaves?",
+      "options": {
+        "A": "0.125 m",
+        "B": "8.00 m",
+        "C": "125 m",
+        "D": "7200 m \n\n\n\u00a9 UCLES 2020 0625/22/M/J/20 **[Turn over**"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "questionNumber": 22,
+      "questionText": "",
+      "options": {
+        "A": "1 real",
+        "B": "1 virtual",
+        "C": "2 real",
+        "D": "2 virtual"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "questionNumber": 23,
+      "questionText": "Which statement is correct?",
+      "options": {
+        "A": "The speed of light in glass is equal to the speed of light in a vacuum multiplied by therefractive index of glass.",
+        "B": "The incident angle of a light ray at an air-glass surface is the angle between the ray and the glass surface.",
+        "C": "The sine of the critical angle at an air-glass surface is equal to (^) refractiveindex^1 ofglass.",
+        "D": "The angle of refraction for light passing through an air-glass surface is proportional to the angle of incidence at that surface."
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "questionNumber": 24,
+      "questionText": "",
+      "options": {
+        "A": "infrared",
+        "B": "radio",
+        "C": "ultraviolet",
+        "D": "visible light"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "questionNumber": 25,
+      "questionText": "",
+      "options": {
+        "A": "0.075 m / s",
+        "B": "0.15 m / s",
+        "C": "750 m / s",
+        "D": "1500 m / s \n\n\n\u00a9 UCLES 2020 0625/22/M/J/20"
+      },
+      "correctAnswer": "D"
+    },
+    {
+      "questionNumber": 26,
+      "questionText": "Four nails",
+      "options": {
+        "A": ",",
+        "B": ",",
+        "C": "and",
+        "D": "are tested to find which makes the strongest permanent magnet. One of the nails is placed against a bar magnet and the number of paper clips which the nail can support is recorded. \n\n N S \n\n nail \n\n bar magnet \n\n paper clips \n\n The bar magnet is then removed and the number of paper clips remaining attached to the nail is recorded. Each nail is tested individually. Which nail becomes the strongest permanent magnet? number of paper clips attached to the nail bar magnet present bar magnet removed A 2 0 B 2 1 C 4 3 D 5 2 \n\n\n\u00a9 UCLES 2020 0625/22/M/J/20 **[Turn over**"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "questionNumber": 27,
+      "questionText": "",
+      "options": {
+        "A": "student wants to demagnetise a steel bar. He uses the apparatus shown. He switches on thecircuit for a few seconds and then switches off. He finds that the steel bar is still magnetised. \n\n steel bar coil \n\n a.c. supply What should he do to improve his method?",
+        "B": "use a lower alternating voltage",
+        "C": "remove the steel bar from the coil whilst the circuit is switched on",
+        "D": "use a coil that has fewer turns on it"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "questionNumber": 28,
+      "questionText": "",
+      "options": {
+        "A": "The rod gains electrons and the cloth gains positive charges.",
+        "B": "The rod gains electrons and the cloth loses electrons.",
+        "C": "The rod loses electrons and the cloth gains electrons.",
+        "D": "The rod loses electrons and the cloth loses positive charges. \n\n\n\u00a9 UCLES 2020 0625/22/M/J/20"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "questionNumber": 29,
+      "questionText": "",
+      "options": {
+        "A": "student uses the circuit shown to determine the resistance of two identical resistors. \n\n###",
+        "B": "0.55 \u03a9",
+        "C": "4.4 \u03a9",
+        "D": "8.8 \u03a9"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "questionNumber": 30,
+      "questionText": "",
+      "options": {
+        "A": "0.50 V",
+        "B": "1.5 V",
+        "C": "2.0 V",
+        "D": "8.0 V"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "questionNumber": 31,
+      "questionText": "The circuit shown contains five lamps J, K, L, M and N.",
+      "options": {
+        "A": "lamp J",
+        "B": "lamp K",
+        "C": "lamp L",
+        "D": "lamp M \n\n\n\u00a9 UCLES 2020 0625/22/M/J/20 **[Turn over**"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "questionNumber": 32,
+      "questionText": "What is the effective resistance of the following combination of resistors? ### 8.0 \u03a9 ### 6.0 \u03a9 ### 4.0 \u03a9 ###",
+      "options": {
+        "A": "1.8 \u03a9",
+        "B": "7.4 \u03a9",
+        "C": "11 \u03a9",
+        "D": "18 \u03a9"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "questionNumber": 33,
+      "questionText": "Which symbol represents a N",
+      "options": {
+        "D": "gate? **",
+        "A": "B",
+        "C": "D**"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "questionNumber": 34,
+      "questionText": "The diagram shows a circuit used to switch on a heater when the temperature drops below acertain value. ### X ### Y Which row shows the components that should be connected at X and at Y? X Y",
+      "options": {
+        "A": "B",
+        "C": "D \n\n\n\u00a9 UCLES 2020 0625/22/M/J/20"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "questionNumber": 35,
+      "questionText": "The diagram shows the magnetic field due to a current in a solenoid. Where is the magnetic field the strongest? ###",
+      "options": {
+        "D": "###",
+        "A": "###",
+        "C": "###",
+        "B": ""
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "questionNumber": 36,
+      "questionText": "",
+      "options": {
+        "A": "beam of electrons is passed through the magnetic field of a magnet. How must the magnet be positioned to deflect the beam in the direction shown? \n\n## N \n\n###",
+        "C": "N (^) direction of beam e \u2013 \n\n## S \n\n## N \n\n###",
+        "B": "e \u2013 \n\n direction of beam \n\n## N \n\n## S \n\n###",
+        "D": "e \u2013 \n\n\n\u00a9 UCLES 2020 0625/22/M/J/20 **[Turn over**"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "questionNumber": 37,
+      "questionText": "Uranium-235 can undergo nuclear fission in many ways. Which equation correctly shows a possible fission reaction for uranium-235?",
+      "options": {
+        "A": "^10 n + (^23592) U \u2192 (^14156) Ba + (^9236) Kr + 3 10 n",
+        "B": "^10 n + (^23592) U \u2192 (^9138) Sr +^14454 Xe 2 10 n (^9537) Rb + (^13655) Cs (^8735) Br + (^14657) La \n\n### +",
+        "C": "^10 n + (^23592) U \u2192 + 3 10 n",
+        "D": "^10 n + (^23592) U \u2192 + 4 10 n"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "questionNumber": 38,
+      "questionText": "",
+      "options": {
+        "A": "1.0 \u00d7 10 10",
+        "B": "4.0 \u00d7 10 10",
+        "C": "6.0 \u00d7 10 10",
+        "D": "7.0 \u00d7 10 10"
+      },
+      "correctAnswer": "D"
+    },
+    {
+      "questionNumber": 39,
+      "questionText": "",
+      "options": {
+        "A": "\u03b1-particles",
+        "B": "\u03b2-particles",
+        "C": "\u03b3-rays",
+        "D": "X-rays \n\n\nPermission to reproduce items where third-party owned material protected by copyright is included has been sought and cleared where possible. Everyreasonable effort has been made by the publisher (UCLES) to trace copyright holders, but if any items requiring clearance have unwittingly been included, the publisher will be pleased to make amends at the earliest possible opportunity. To avoid the issue of disclosure of answer-related information to candidates, all copyright acknowledgements are reproduced online in the CambridgeAssessment International Education Copyright Acknowledgements Booklet. This is produced for each series of examinations and is freely available to download at [http://www.cambridgeinternational.org](http://www.cambridgeinternational.org) after the live examination series. Cambridge Assessment International Education is part of the Cambridge Assessment Group. Cambridge Assessment is the brand name of the University ofCambridge Local Examinations Syndicate (UCLES), which itself is a department of the University of Cambridge. \u00a9 UCLES 2020 0625/22/M/J/20"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "questionNumber": 40,
+      "questionText": "\u03b1-particles, \u03b2-particles and \u03b3-rays are emitted by radioactive nuclei when they decay. Which emissions can be deflected by an electric field?",
+      "options": {
+        "A": "\u03b1-particles and \u03b2-particles only",
+        "B": "\u03b2-particles and \u03b3-rays only",
+        "C": "\u03b3-rays and \u03b1-particles only",
+        "D": "\u03b1-particles, \u03b2-particles and \u03b3-rays"
+      },
+      "correctAnswer": "A"
+    }
+  ]
+}

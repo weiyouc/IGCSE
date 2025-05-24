@@ -1,0 +1,49 @@
+{
+  "title": "IGCSE Physics Summer 2020 Paper 42",
+  "subject": "Physics",
+  "description": "Cambridge IGCSE Physics Past Paper 0625_s20_qp_42",
+  "duration": 45,
+  "difficultyLevel": "advanced",
+  "isPublished": true,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionText": "Fig. 1.1 shows the speed\u2013time graph of a person on a journey. On the journey, he walks and then waits for a bus. He then travels by bus. He gets off the bus and waits for two minutes. He then walks again. His journey takes 74 minutes. (^0 0 10 20 30 40 50 60 70 80) ## 10 ## 20 ## 30 ## 40 ## 50 speed km / h time / min Fig. 1.1 (a) For the whole journey calculate: (i) the distance travelled distance = ......................................................... [3] (ii) the average speed. average speed = ......................................................... [2] **\u00a9U",
+      "options": {
+        "C": "LES 2020 0625/42/M/J/20 [Turn over** \n\n (b) State and explain which feature of a speed\u2013time graph shows acceleration. ................................................................................................................................................... ............................................................................................................................................. [2] (c) State and explain the acceleration of the person at time = 40 minutes. ................................................................................................................................................... ............................................................................................................................................. [2] [Total: 9] \n\n\n**\u00a9U"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "questionNumber": 2,
+      "questionText": "Fig. 2.1 shows a train. Fig. 2.1 The total mass of the train and its passengers is 750 000 kg. The train is travelling at a speed of 84 m / s. The driver applies the brakes and the train takes 80 s to slow down to a speed of 42 m / s. (a)",
+      "options": {
+        "A": "solar panel receives energy from the Sun at a rate of 5.0 kW. Thermal energy is transferred from the solar panel to water with an efficiency of 20%. Cold water of mass 15 kg enters the solar panel every hour. The specific heat capacity of water is 4200 J / (kg \u00b0C). Calculate the temperature increase of the water. \n\n temperature increase = .....................................................\u00b0",
+        "C": "[4] (b) State and explain one advantage and one disadvantage of heating the water in a solar panel compared with heating the water in a coal-burning boiler. advantage ................................................................................................................................. explanation ............................................................................................................................... ................................................................................................................................................... disadvantage ............................................................................................................................ explanation ............................................................................................................................... ............................................................................................................................................. [4] [Total: 8] \n\n\n**\u00a9UCLES 2020 0625/42/M/J/20**"
+      }
+    },
+    {
+      "questionNumber": 4,
+      "questionText": "Fig. 4.1 shows a liquid-in-glass thermometer without a temperature scale. The liquid inside the thermometer has a melting point of \u201339 \u00b0",
+      "options": {
+        "A": "scientist is measuring temperatures at the South Pole. These temperatures have a minimum value of \u201390 \u00b0C. State why the liquid used in the thermometer in Fig. 4.1 would not be suitable for this scientist. ............................................................................................................................................. [1] (c) State a design change that: (i) increases the sensitivity of a liquid-in-glass thermometer ..................................................................................................................................... [1] (ii) increases the range of a liquid-in-glass thermometer. ..................................................................................................................................... [1] (d) State the property of the liquid which ensures that the scale on a liquid-in-glass thermometer is linear. ............................................................................................................................................. [1] [Total: 8] \n\n\n**\u00a9UCLES 2020 0625/42/M/J/20 [Turn over**"
+      }
+    },
+    {
+      "questionNumber": 5,
+      "questionText": "Fig. 5.1 shows crests of a wave approaching a barrier where the wave is reflected. barrier crest direction of travel of wave Fig. 5.1 (a) On Fig. 5.1, draw three crests of the reflected wave. [3] (b) The wave has a wavelength of 36 cm and a speed of 1.2 m / s.",
+      "options": {
+        "A": "student makes a transformer that uses an alternating current (a.c.) supply with an electromotive force (e.m.f.) of 12.0 V to induce an output potential difference (p.d.) of 2.0 V. The student is provided with two lengths of insulated wire and the U-shaped piece of iron shown in Fig. 7.1. iron \n\n Fig. 7.1 (i) Complete and label Fig. 7.1 to show the transformer connected to the supply and the output from the transformer. [3] (ii) Explain the function of the piece of iron in the transformer. ........................................................................................................................................... ........................................................................................................................................... ..................................................................................................................................... [2] (iii) The output of the transformer is connected to a lamp. The current in the lamp is 100 mA. The transformer is 100% efficient. Calculate the input current to the transformer. \n\n current = ......................................................... [2] (b) Another transformer is used in a school laboratory to step down a mains supply with a p.d. of 110 V to 12 V. This transformer is mounted in a metal case. State and explain an essential safety feature required for this arrangement. ................................................................................................................................................... ............................................................................................................................................. [2] [Total: 9] \n\n\n**\u00a9UCLES 2020 0625/42/M/J/20** \n\n**8 (a)**",
+        "D": "when lit is 3.1 V and the current in the LE",
+        "C": "##"
+      }
+    },
+    {
+      "questionNumber": 10,
+      "questionText": "Fig. 10.1 shows a vacuum tube with a radioactive source. The radioactive source emits \u03b2-particles and \u03b3 -rays. There is a very strong magnetic field between the N pole and the S pole of \u03b1-particles, the magnet. vacuum N ## S lead cylinder with narrow central hole radioactive source \u03b1-particles, \u03b2-particles and \u03b3-rays Fig. 10.1 (a) The lead cylinder has a narrow central hole. State and explain the effect of the lead cylinder. ................................................................................................................................................... ............................................................................................................................................. [2] (b)",
+      "options": {
+        "D": "escribe the paths of thefield. Explain your answers. \u03b1-particles, \u03b2-particles and \u03b3 -rays as they pass through the magnetic (i) \u03b1-particles ........................................................................................................................................... ........................................................................................................................................... ..................................................................................................................................... [2] (ii) \u03b2-particles ........................................................................................................................................... ........................................................................................................................................... ........................................................................................................................................... ..................................................................................................................................... [2] (iii) \u03b3 -rays ........................................................................................................................................... ........................................................................................................................................... ..................................................................................................................................... [2] [Total: 8]"
+      }
+    }
+  ]
+}

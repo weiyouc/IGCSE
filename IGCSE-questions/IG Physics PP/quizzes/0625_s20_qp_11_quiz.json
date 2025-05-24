@@ -1,0 +1,444 @@
+{
+  "title": "IGCSE Physics Summer 2020 Paper 11",
+  "subject": "Physics",
+  "description": "Cambridge IGCSE Physics Past Paper 0625_s20_qp_11",
+  "duration": 45,
+  "difficultyLevel": "beginner",
+  "isPublished": true,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionText": "",
+      "options": {
+        "A": "1.6 s",
+        "B": "3.2 s",
+        "C": "4.8 s",
+        "D": "6.4 s"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "questionNumber": 2,
+      "questionText": "The motion of an object is represented by the speed\u2013time graph shown. area under the graph speed (^0 0) time Which quantity is equal to the area under the graph?",
+      "options": {
+        "A": "acceleration",
+        "B": "average speed",
+        "C": "distance travelled",
+        "D": "kinetic energy"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "questionNumber": 3,
+      "questionText": "Which statement about acceleration is correct?",
+      "options": {
+        "A": "It is related to the changing speed of an object.",
+        "B": "It is the distance an object travels in one second.",
+        "C": "It is the force acting on an object divided by the distance it travels in one second.",
+        "D": "It is the force acting on an object when it is near to the Earth. \n\n\n\u00a9 UCLES 2020 0625/11/M/J/20 **[Turn over**"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "questionNumber": 4,
+      "questionText": "Two metal blocks P and Q have identical dimensions. They hang on identical spring balances. #### 0 1 2 3 4 6 #### 5 N (^0) 1 2 3 4 6 #### 5 #### N #### Q #### P Which statement about P and Q is correct?",
+      "options": {
+        "A": "They have different volumes and different weights.",
+        "B": "They have different volumes and equal weights.",
+        "C": "They have equal volumes and equal weights.",
+        "D": "They have equal volumes and different weights."
+      },
+      "correctAnswer": "D"
+    },
+    {
+      "questionNumber": 5,
+      "questionText": "",
+      "options": {
+        "A": "0.30 N",
+        "B": "0.60 N",
+        "C": "60 N",
+        "D": "120 N \n\n\n\u00a9 UCLES 2020 0625/11/M/J/20"
+      },
+      "correctAnswer": "D"
+    },
+    {
+      "questionNumber": 6,
+      "questionText": "The mass of a measuring cylinder is 190 g. 400 cm^3 of liquid is put into the measuring cylinder. The total mass of the measuring cylinder and the liquid is 560 g. Four solid objects are lowered in turn into the liquid. The densities of the objects are shown. 1 0.40 g / cm^3 2 0.90 g / cm^3 3 1.2 g / cm^3 4 2.7 g / cm^3 Which objects will float in the liquid?",
+      "options": {
+        "A": "1 only",
+        "B": "1 and 2 only",
+        "C": "1, 2 and 3",
+        "D": "3 and 4 only"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "questionNumber": 7,
+      "questionText": "",
+      "options": {
+        "A": "sledge is pulled in a straight line by dogs, as shown. \n\n sledge dogs surface \n\n The dogs produce a total horizontal driving force of 600 N. The frictional force between the sledge and the surface is 150sledge is 450 N. N and the air resistance on the \n\n What is the resultant force acting on the sledge?",
+        "B": "300 N",
+        "C": "900 N",
+        "D": "1200 N"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "questionNumber": 8,
+      "questionText": "Forces are applied to four identical objects. The lengths of the arrows indicate the magnitude of each force. Which object is in equilibrium? **",
+      "options": {
+        "A": "B",
+        "C": "D** \n\n\n\u00a9 UCLES 2020 0625/11/M/J/20 **[Turn over**"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "questionNumber": 9,
+      "questionText": "The diagram shows part of a rollercoaster ride with the car at different positions. The car runs freely down from position X to position Y and up the hill on the other side. X #### Y car What happens to the kinetic energy and to the gravitational potential energy of the car as itmoves from position X to position Y? kinetic energy (^) potential energygravitational",
+      "options": {
+        "A": "decreases decreases",
+        "B": "decreases increases",
+        "C": "increases decreases",
+        "D": "increases increases"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "questionNumber": 10,
+      "questionText": "Student P uses a force of 35 N to push a box 3.0 m across the floor. Student Q uses a force of 22 N to push another box 1.8 m across the floor. Which statement gives a full explanation why student P uses more energy than student Q?",
+      "options": {
+        "A": "Student P pushes his box a greater distance than student Q.",
+        "B": "Student P pushes his box a greater distance and uses a bigger force than student Q.",
+        "C": "Student P uses a bigger force than student Q.",
+        "D": "Student P pushes a heavier box than student Q. \n\n\n\u00a9 UCLES 2020 0625/11/M/J/20"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "questionNumber": 11,
+      "questionText": "",
+      "options": {
+        "A": "man can either take an escalator or a lift to travel up between two floors in a hotel. \n\n escalator lift The escalator takes 20 seconds to carry the man between the two floors. The useful work done against gravity is W. The useful power developed is P. The lift takes 30 seconds to carry the same man between the same two floors. How much useful work against gravity is done by the lift, and how much useful power isdeveloped by the lift? \n\n useful work done against gravity by lift developed by liftuseful power",
+        "B": "more than W P",
+        "C": "W less than P",
+        "D": "W P \n\n\n\u00a9 UCLES 2020 0625/11/M/J/20 **[Turn over**"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "questionNumber": 12,
+      "questionText": "The diagram shows a solid block resting on a bench. The dimensions of the block are shown. 80 cm^ bench 20 cm 40 cm #### P R #### Q On which labelled surface should the block rest to produce the smallest pressure on the bench?",
+      "options": {
+        "A": "P",
+        "B": "Q",
+        "C": "R",
+        "D": "P, Q and R produce the same pressure \n\n\n\u00a9 UCLES 2020 0625/11/M/J/20"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "questionNumber": 13,
+      "questionText": "Four submarines are submerged. The density of fresh water is 1000sea water is 1020 kg / m (^3). kg / m^3 and the density of Which submarine experiences the greatest pressure due to the water? water surface fresh water (^100) m ####",
+      "options": {
+        "A": "fresh water 120 m \n\n####",
+        "B": "submarine \n\n submarine \n\nsea water (^100) m \n\n####",
+        "C": "sea water 120 m \n\n####",
+        "D": "submarine \n\n submarine \n\n water surface \n\n water surface \n\n water surface"
+      },
+      "correctAnswer": "D"
+    },
+    {
+      "questionNumber": 14,
+      "questionText": "",
+      "options": {
+        "A": "The average distance between molecules increases.",
+        "B": "The average kinetic energy of the molecules increases.",
+        "C": "The mass of each molecule increases.",
+        "D": "The volume of each molecule increases. \n\n\n\u00a9 UCLES 2020 0625/11/M/J/20 **[Turn over**"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "questionNumber": 15,
+      "questionText": "",
+      "options": {
+        "A": "student is investigating evaporation. She soaks a piece of cotton wool in a liquid and attachesthis to the bulb of a thermometer. \n\n As the liquid evaporates the temperature reading on the thermometer changes. \n\n thermometer \n\n cotton wool soaked in liquid \n\n Which statement is correct?",
+        "B": "The more energetic molecules leave the liquid and the temperature reading increases.",
+        "C": "The less energetic molecules leave the liquid and the temperature reading decreases.",
+        "D": "The less energetic molecules leave the liquid and the temperature reading increases."
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "questionNumber": 16,
+      "questionText": "The thermometer in the diagram has no scale.",
+      "options": {
+        "A": "temperature of pure boiling water normal body temperature",
+        "B": "temperature of pure boiling water temperature of pure melting ice",
+        "C": "normal body temperature temperature of pure boiling water",
+        "D": "temperature of pure melting ice temperature of pure boiling water \n\n\n\u00a9 UCLES 2020 0625/11/M/J/20"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "questionNumber": 17,
+      "questionText": "When a hot gas is left to cool, its internal energy decreases. What causes this?",
+      "options": {
+        "A": "a decrease in the kinetic energy of the gas particles",
+        "B": "a decrease in the gravitational potential energy of the gas particles",
+        "C": "an increase in the average speed of the gas particles",
+        "D": "an increase in the average distance of separation of the gas particles"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "questionNumber": 18,
+      "questionText": "The diagrams show four blocks of steel. The blocks are all drawn to the same scale. The same quantity of thermal energy is given to each block. Which block shows the greatest rise in temperature? **",
+      "options": {
+        "A": "B",
+        "C": "D**"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "questionNumber": 19,
+      "questionText": "One ice cube is placed on a metal block.",
+      "options": {
+        "A": "The ice cube on the plastic block melts first because plastic is a good insulator of thermalenergy.",
+        "B": "The ice cube on the plastic block melts first because plastic is a good conductor of thermal energy.",
+        "C": "The ice cube on the metal block melts first because metal is a good conductor of thermal energy.",
+        "D": "The ice cube on the metal block melts first because metal is a good insulator of thermalenergy. \n\n\n\u00a9 UCLES 2020 0625/11/M/J/20 **[Turn over**"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "questionNumber": 20,
+      "questionText": "Two freezers X and Y are identical except that one has a door opening at the front and the otherhas a door opening at the top. #### X freezer door Y freezer door",
+      "options": {
+        "A": "X cold air falls",
+        "B": "X warm air falls",
+        "C": "Y cold air falls",
+        "D": "Y warm air falls"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "questionNumber": 21,
+      "questionText": "The diagram shows a wave. 8 cm 4 cm 3 cm 6 cm What are the amplitude and the wavelength of this wave? amplitude / cm wavelength / cm",
+      "options": {
+        "A": "3 4",
+        "B": "3 8",
+        "C": "6 4",
+        "D": "6 8 \n\n\n\u00a9 UCLES 2020 0625/11/M/J/20"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "questionNumber": 22,
+      "questionText": "Waves travel more quickly on the surface of water when the water is deep.",
+      "options": {
+        "A": "stone is dropped at point X into a pool of varying depth. The diagram shows the first three wavefronts on the surface of the pool. The region between X and which labelled point is likely to be the deepest? \n\n wavefronts",
+        "B": "####",
+        "D": "####",
+        "C": "#### X"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "questionNumber": 23,
+      "questionText": "The diagram shows a beam of light travelling through glass and meeting a glass-air interface. 60 \u00b0 (^) glass air reflected light Which row correctly describes what is happening at the glass-air interface? angle of incidence at the interface observation",
+      "options": {
+        "A": "30 \u00b0 some internal reflection",
+        "B": "30 \u00b0 total internal reflection",
+        "C": "60 \u00b0 some internal reflection",
+        "D": "60 \u00b0 total internal reflection \n\n\n\u00a9 UCLES 2020 0625/11/M/J/20 **[Turn over**"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "questionNumber": 24,
+      "questionText": "",
+      "options": {
+        "A": "blue yellow red",
+        "B": "red blue yellow",
+        "C": "red yellow blue",
+        "D": "yellow blue red"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "questionNumber": 25,
+      "questionText": "",
+      "options": {
+        "A": "infrared",
+        "B": "radio",
+        "C": "ultraviolet",
+        "D": "visible light \n\n\n\u00a9 UCLES 2020 0625/11/M/J/20"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "questionNumber": 26,
+      "questionText": "The graphs show the displacement of particles in sound waves from three sources X, Y and Z.The scales on the graphs are all identical. displacement time source X displacement time source Y displacement time source Z (^0 0 0 0) (^0 0) Which sources are producing sound waves with the same pitch?",
+      "options": {
+        "A": "X and Y only",
+        "B": "Y and Z only",
+        "C": "X and Z only",
+        "D": "X, Y and Z"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "questionNumber": 27,
+      "questionText": "",
+      "options": {
+        "A": "soft iron easy to demagnetise",
+        "B": "soft iron hard to demagnetise",
+        "C": "steel easy to demagnetise",
+        "D": "steel hard to demagnetise \n\n\n\u00a9 UCLES 2020 0625/11/M/J/20 **[Turn over**"
+      },
+      "correctAnswer": "D"
+    },
+    {
+      "questionNumber": 28,
+      "questionText": "Four nails",
+      "options": {
+        "A": ",",
+        "B": ",",
+        "C": "and",
+        "D": "are tested to find which makes the strongest permanent magnet. One of the nails is placed against a bar magnet and the number of paper clips which the nail can support is recorded. \n\n N S \n\n nail \n\n bar magnet \n\n paper clips \n\n The bar magnet is then removed and the number of paper clips remaining attached to the nail is recorded. Each nail is tested individually. Which nail becomes the strongest permanent magnet? number of paper clips attached to the nail bar magnet present bar magnet removed A 2 0 B 2 1 C 4 3 D 5 2"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "questionNumber": 29,
+      "questionText": "Three statements about electric charge are given. 1",
+      "options": {
+        "A": "1 and 2 only",
+        "B": "1 and 3 only",
+        "C": "2 and 3 only",
+        "D": "1, 2 and 3 \n\n\n\u00a9 UCLES 2020 0625/11/M/J/20"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "questionNumber": 30,
+      "questionText": "Each of the four diagrams M, N, O and P shows a separate pair of insulating rods. Each rod ischarged as shown. diagram M - \u2013 \u2013 \u2013 - \u2013 \u2013 #### \u2013 \u2013 \u2013 \u2013 #### \u2013 \u2013 \u2013 diagram N + + + + + + + diagram O - \u2013 \u2013 \u2013 - \u2013 \u2013 #### + + + + #### + + + diagram P + + + + + + + #### + + + + #### + + + In which two arrangements do the pairs of rods experience a force of repulsion?",
+      "options": {
+        "A": "M and N",
+        "B": "O and P",
+        "C": "M and P",
+        "D": "N and O"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "questionNumber": 31,
+      "questionText": "",
+      "options": {
+        "A": "student uses the circuit shown to determine the resistance of two identical resistors. \n\n####",
+        "B": "0.55 \u03a9",
+        "C": "4.4 \u03a9",
+        "D": "8.8 \u03a9 \n\n\n\u00a9 UCLES 2020 0625/11/M/J/20 **[Turn over**"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "questionNumber": 32,
+      "questionText": "In the circuit shown,",
+      "options": {
+        "A": "decreases stays the same increases",
+        "B": "decreases increases increases",
+        "C": "increases stays the same stays the same",
+        "D": "increases decreases decreases"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "questionNumber": 33,
+      "questionText": "What happens to the resistance of an L",
+      "options": {
+        "A": "Its resistance decreases.",
+        "B": "Its resistance increases.",
+        "C": "Its resistance increases then decreases.",
+        "D": "Its resistance stays the same. \n\n\n\u00a9 UCLES 2020 0625/11/M/J/20"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "questionNumber": 34,
+      "questionText": "",
+      "options": {
+        "A": "student constructs four circuits, each containing a fuse. The fuse blows in one circuit and both lamps in the circuit go out. In which circuit does the fuse blow and both lamps go out? **",
+        "C": "D"
+      },
+      "correctAnswer": "D"
+    },
+    {
+      "questionNumber": 35,
+      "questionText": "",
+      "options": {
+        "A": "20",
+        "B": "50",
+        "C": "72",
+        "D": "800 \n\n\n\u00a9 UCLES 2020 0625/11/M/J/20 **[Turn over**"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "questionNumber": 36,
+      "questionText": "",
+      "options": {
+        "A": "conducting wire is placed between the poles of a magnet. When an electric current in the wireis in the direction shown, then the force on the wire acts out of the page. \n\n## N S \n\n wire \n\n Three statements of different conditions and how the wire is affected are given. 1 The current is towards the top of the page and the direction of the magnetic field is unchanged then the force produced acts into the page. 2 The current is towards the bottom of the page and the magnetic field is reversedthen the force produced acts into the page. 3 The current in the wire is alternating and the wire vibrates into and out of the page. Which statements are correct?",
+        "B": "1 and 3 only",
+        "C": "2 and 3 only",
+        "D": "1, 2 and 3"
+      },
+      "correctAnswer": "D"
+    },
+    {
+      "questionNumber": 37,
+      "questionText": "",
+      "options": {
+        "A": "26 30 26",
+        "B": "26 56 30",
+        "C": "30 26 56",
+        "D": "56 26 30"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "questionNumber": 38,
+      "questionText": "What is the nucleon number of a nuclide?",
+      "options": {
+        "A": "the number of neutrons in the nucleus",
+        "B": "the number of protons in the nucleus",
+        "C": "the number of protons minus the number of neutrons in the nucleus",
+        "D": "the number of protons plus the number of neutrons in the nucleus \n\n\nPermission to reproduce items where third-party owned material protected by copyright is included has been sought and cleared where possible. Everyreasonable effort has been made by the publisher (UCLES) to trace copyright holders, but if any items requiring clearance have unwittingly been included, the publisher will be pleased to make amends at the earliest possible opportunity. To avoid the issue of disclosure of answer-related information to candidates, all copyright acknowledgements are reproduced online in the CambridgeAssessment International Education Copyright Acknowledgements Booklet. This is produced for each series of examinations and is freely available to download at [http://www.cambridgeinternational.org](http://www.cambridgeinternational.org) after the live examination series. Cambridge Assessment International Education is part of the Cambridge Assessment Group. Cambridge Assessment is the brand name of the University ofCambridge Local Examinations Syndicate (UCLES), which itself is a department of the University of Cambridge. \u00a9 UCLES 2020 0625/11/M/J/20"
+      },
+      "correctAnswer": "D"
+    },
+    {
+      "questionNumber": 39,
+      "questionText": "",
+      "options": {
+        "A": "thin sheet of paper is placed between a radioactive source and a radiation detector. The countrate falls to a very low reading. \n\n source \n\n paper detector \n\n counter From this result, which type of radiation is the source emitting?",
+        "B": "\u03b2-particles",
+        "C": "\u03b3-rays",
+        "D": "X-rays"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "questionNumber": 40,
+      "questionText": "In 1986 the",
+      "options": {
+        "A": "\u03b1-particles",
+        "B": "\u03b2-particles",
+        "C": "\u03b3-rays",
+        "D": "radioactive isotopes"
+      },
+      "correctAnswer": "D"
+    }
+  ]
+}

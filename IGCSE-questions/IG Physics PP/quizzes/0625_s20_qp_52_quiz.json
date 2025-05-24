@@ -1,0 +1,44 @@
+{
+  "title": "IGCSE Physics Summer 2020 Paper 52",
+  "subject": "Physics",
+  "description": "Cambridge IGCSE Physics Past Paper 0625_s20_qp_52",
+  "duration": 45,
+  "difficultyLevel": "advanced",
+  "isPublished": true,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionText": "In this experiment, you will investigate the period of a pendulum.",
+      "options": {
+        "A": "d \n\n one complete oscillation \n\n clamp \n\n Fig. 1.1 Fig. 1.2",
+        "B": "of pendulum B. m"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "questionNumber": 2,
+      "questionText": "In this experiment, you will investigate how the potential difference across a resistance wire varies with the length of the wire.",
+      "options": {
+        "A": "## V \n\n power supply \n\n##",
+        "B": "resistance wire sliding contact",
+        "C": "l \n\n Fig. 2.1 (a) \n\n- Switch on. \n\n- Place the sliding contact"
+      }
+    },
+    {
+      "questionNumber": 3,
+      "questionText": "In this experiment, you will investigate some thermal properties of sand and water.",
+      "options": {
+        "B": "thermometer \n\n bench \n\n sand \n\n beaker",
+        "A": "Fig. 3.1 (a) Use the thermometer to measure room temperature \u03b8S. \u03b8S = ........................................................... Use the thermometer to measure the temperature \u03b8H of the hot water in beaker B. \u03b8H = ........................................................... [1] (b) Beaker",
+        "C": "contains water at room temperature. Pour 100 cm 3 of the hot water into beaker C. Carefully stir the water. Record the highest temperature \u03b8M of the mixture. \u03b8M = ..................................................... [1] (f) Calculate the rise in temperature \u03b8R of the cold water using the equation \u03b8R = ( \u03b8M \u2013 \u03b8S). Use the value of room temperature \u03b8S recorded in (a) and the value of \u03b8M recorded in (e). \n\n \u03b8R = ........................................................... Calculate the fall in temperature \u03b8F of the hot water using the equation \u03b8F = ( \u03b8H \u2013 \u03b8M ). Use the value of \u03b8H from (d) and \u03b8M from (e). \n\n\u03b8 (^) F = ........................................................... Calculate the ratio _W_ using the equation _W_ =^ \u03b8 \u03b8RF. \n\n## W = ........................................................... \n\n## [1] \n\n\n**\u00a9UCLES 2020 0625/52/M/J/20** \n\n (g)"
+      }
+    },
+    {
+      "questionNumber": 4,
+      "questionText": "",
+      "options": {
+        "A": "student investigates the bending of 1 m length strips of different materials. She compares how far they bend when loaded at one end. Plan an experiment to investigate how the material from which the strips are made affects the bending of the strips when loaded at one end. You are **not** required to carry out this experiment. The following apparatus is available to the student: strips of wood, plastic, steel and aluminium, all 1 m long a set of slotted masses a metre rule a G-clamp (used to hold the strips to the laboratory bench). Other apparatus normally available in a school laboratory can also be used. In your plan, you should: \n\n- draw a diagram to show the arrangement of the apparatus \n\n- explain briefly how you would carry out the investigation, including the measurements you     would take \n\n- state the key variables to be kept constant \n\n- draw a suitable table, with column headings, to show how you would display your readings     (you are **not** required to enter any readings in the table) \n\n- explain how you would use the results to reach a conclusion. \n\n## .......................................................................................................................................................... \n\n## .......................................................................................................................................................... \n\n## .......................................................................................................................................................... \n\n## .......................................................................................................................................................... \n\n\n**\u00a9UCLES 2020 0625/52/M/J/20** \n\nPermission to reproduce items where third-party owned material protected by copyright is included has been sought and cleared where possible. Everyreasonable effort has been made by the publisher (UCLES) to trace copyright holders, but if any items requiring clearance have unwittingly been included, the publisher will be pleased to make amends at the earliest possible opportunity. To avoid the issue of disclosure of answer-related information to candidates, all copyright acknowledgements are reproduced online in the CambridgeAssessment International Education Copyright Acknowledgements Booklet. This is produced for each series of examinations and is freely available to download at [http://www.cambridgeinternational.org](http://www.cambridgeinternational.org) after the live examination series. Cambridge Assessment International Education is part of the Cambridge Assessment Group. Cambridge Assessment is the brand name of the University ofCambridge Local Examinations Syndicate (UCLES), which itself is a department of the University of Cambridge. \n\n## .......................................................................................................................................................... \n\n## .......................................................................................................................................................... \n\n## .......................................................................................................................................................... \n\n## .......................................................................................................................................................... \n\n## .......................................................................................................................................................... \n\n## .......................................................................................................................................................... \n\n## .......................................................................................................................................................... \n\n## .......................................................................................................................................................... \n\n## .......................................................................................................................................................... \n\n## .......................................................................................................................................................... \n\n## .......................................................................................................................................................... \n\n## .......................................................................................................................................................... \n\n## .......................................................................................................................................................... \n\n## .......................................................................................................................................................... \n\n## .......................................................................................................................................................... \n\n## .......................................................................................................................................................... \n\n## .......................................................................................................................................................... \n\n## .......................................................................................................................................................... \n\n## [7] \n\n [Total: 7]"
+      }
+    }
+  ]
+}
