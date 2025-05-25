@@ -1,0 +1,81 @@
+{
+  "title": "IGCSE Physics Summer 2020 Paper 41",
+  "subject": "Physics",
+  "description": "Cambridge IGCSE Physics Past Paper 0625_s20_qp_41",
+  "duration": 45,
+  "difficultyLevel": "advanced",
+  "isPublished": true,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionText": "",
+      "options": {
+        "A": "n aeroplane of mass 2.5 \u00d7 10^5 kg lands with a speed of 62 m / s, on a horizontal runway at time _t_ = 0. The aeroplane decelerates uniformly as it travels along the runway in a straight line until it reaches a speed of 6.0 m / s at _t_ = 35 s. **(a)**",
+        "C": "alculate: **(i)** the deceleration of the aeroplane in the 35 s after it lands \n\n deceleration = ......................................................... [2] (ii) the resultant force acting on the aeroplane as it decelerates \n\n force = ......................................................... [2] (iii) the momentum of the aeroplane when its speed is 6.0 m / s. \n\n momentum = ......................................................... [2] (b)"
+      }
+    },
+    {
+      "questionNumber": 2,
+      "questionText": "Fig. 2.1 is the extension\u2013load graph for a light spring S. (^0 0 2 4 6 8 10) ## 10 ## 20 ## 30 load / N extension / cm Fig. 2.1 (a) State the range of loads for which S obeys Hooke\u2019s law. from ....................................................... to .......................................................... [1] (b) Using information from Fig. 2.1, determine the spring constant k of spring S. k = ......................................................... [2] **\u00a9U",
+      "options": {
+        "A": "second spring, identical to spring S, is attached to spring S. The two springs are attached to a rod, as shown in Fig. 2.2."
+      }
+    },
+    {
+      "questionNumber": 3,
+      "questionText": "Fig. 3.1 shows gas trapped in the sealed end of a tube by a dense liquid. cm 10 3 (^2030) (^4050) (^6070) trapped gas open end sealed end dense liquid **Fig. 3.1** The scale marked on the sealed end of the tube is calibrated to read the volume of gas trapped above the liquid surface. Fig. 3.1 shows that initially the volume _V_ 1 of the gas is 60 cm 3. The pressure of the atmosphere is 1.0 \u00d7 10 5 Pa. **(a)** State how Fig. 3.1 shows that the pressure of the trapped gas is equal to the pressure of the atmosphere. ................................................................................................................................................... ............................................................................................................................................. [1] **(b)** Explain, in terms of the momentum of its molecules, why the trapped gas exerts a pressure on the walls of the tube. ................................................................................................................................................... ................................................................................................................................................... ................................................................................................................................................... ............................................................................................................................................. [3] **\u00a9U",
+      "options": {
+        "C": "LES 2020 0625/41/M/J/20 [Turn over** \n\n (c) More of the dense liquid is poured into the open end of the tube. The level of the liquid surface in both the sealed and the open ends of the tube rises as shown in Fig. 3.2. The temperature of the trapped gas and atmospheric pressure both remain constant. \n\n cm 10 3 \n\n(^2030) (^4050) (^6070) trapped gas open end dense liquid 15 cm sealed end **Fig. 3.2 (i)** In the sealed end of the tube, the volume _V_ 2 of the trapped gas is 50 cm^3. In the open end of the tube, the liquid surface is 15 cm above the new level in the sealed tube."
+      }
+    },
+    {
+      "questionNumber": 4,
+      "questionText": "Water has a specific heat capacity of 4200 J / (kg \u00b0",
+      "options": {
+        "A": "mass of 0.30 kg of water at its boiling point is poured into a copper container which is initially at 11 \u00b0C. After a few seconds, the temperature of the container and the water are both 95 \u00b0C. **(i)** Calculate the energy transferred from the water. \n\n energy transferred = ......................................................... [2] (ii) Calculate the thermal capacity of the copper container. \n\n thermal capacity of the copper container = ......................................................... [2] (iii) Water from the container evaporates and the temperature of the remaining water decreases slowly. Explain, in terms of molecules, why evaporation causes the temperature of the remaining water to decrease. ........................................................................................................................................... ........................................................................................................................................... ........................................................................................................................................... ..................................................................................................................................... [3] [Total: 8] \n\n\n**\u00a9UCLES 2020 0625/41/M/J/20 [Turn over**"
+      }
+    },
+    {
+      "questionNumber": 5,
+      "questionText": "The distance between the centre of a thin converging lens and each principal focus is 5.0 cm. **(a)**",
+      "options": {
+        "D": "escribe what is meant by the term _principal focus_ for a thin converging lens. ................................................................................................................................................... ................................................................................................................................................... ............................................................................................................................................. [2] **(b)** The lens is used as a magnifying glass to produce an image I of an object O. **(i)** Underline the terms that describe the nature of the image produced by a magnifying glass. [2] **diminished enlarged inverted real same size upright virtual (ii)** Fig. 5.1 is a full-scale diagram of the lens and the image I. \n\n centre of lens 1 cm 1 cm \n\n## I \n\n centre of lens 1 cm 1 cm \n\n## I \n\n Fig. 5.1 (full-scale) \n\n**1.** On Fig. 5.1, mark both principal focuses and label each of them F. [1] \n\n**2.**",
+        "B": "y drawing on Fig. 5.1, find the position of object O and add object O to the diagram.     [3] **(iii)** Using Fig. 5.1, determine the distance of object O from the centre of the lens. \n\n distance = ......................................................... [1] [Total: 9] \n\n\n**\u00a9U",
+        "C": "LES 2020 0625/41/M/J/20**"
+      }
+    },
+    {
+      "questionNumber": 6,
+      "questionText": "The speed of sound in air is 340 m / s. **(a)**",
+      "options": {
+        "A": "young man at the side of the building hears the drum but not the high frequency sounds from the other musical instruments. Explain why this happens. ................................................................................................................................................... ................................................................................................................................................... ............................................................................................................................................. [3] [Total: 8] \n\n\n**\u00a9UCLES 2020 0625/41/M/J/20 [Turn over**"
+      }
+    },
+    {
+      "questionNumber": 7,
+      "questionText": "",
+      "options": {
+        "A": "switch and a lamp are connected in series with the terminals of solenoid Y. When theswitch is closed, the lamp lights up at normal brightness. Describe and explain what happens to the current in solenoid X when the switch isclosed. ........................................................................................................................................... ........................................................................................................................................... ..................................................................................................................................... [2] [Total: 9] \n\n\n**\u00a9UCLES 2020 0625/41/M/J/20**"
+      }
+    },
+    {
+      "questionNumber": 8,
+      "questionText": "The power supply used in an electric vehicle contains 990 rechargeable cells each of electromotive force (e.m.f.) 1.2 V. The cells are contained in packs in which all the cells are in series with each other. The e.m.f. of each pack is 54 V. **(a)**",
+      "options": {
+        "D": "gate and the symbol for an OR gate. AN",
+        "B": "and",
+        "C": "is shown in Fig. 9.1. The arrangement has two inputs, X and Y and two outputs P and Q. \n\n X Y P Q \n\n##",
+        "A": "##"
+      }
+    },
+    {
+      "questionNumber": 10,
+      "questionText": "Fig. 10.1 represents a neutral atom of an isotope of element X. Fig. 10.1 (a) State one similarity between this atom and a neutral atom of a different isotope of element X. ................................................................................................................................................... ............................................................................................................................................. [1] (b) The isotope of element X is radioactive. It decays to form an isotope of element Y by emitting a \u03b2-particle. (i) Using Fig. 10.1 deduce the nuclide notation for the isotope of Y produced by this decay. # nuclide notation: ............ Y [3] (ii) \u03b2-particles ionise the air they pass through less strongly than the same number of \u03b1-particles. Suggest why this is so. ........................................................................................................................................... ........................................................................................................................................... ..................................................................................................................................... [3] [Total: 7] **\u00a9U",
+      "options": {
+        "C": "LES 2020 0625/41/M/J/20** \n\nPermission to reproduce items where third-party owned material protected by copyright is included has been sought and cleared where possible. Everyreasonable effort has been made by the publisher (U",
+        "A": "ssessment International Education",
+        "B": "ooklet. This is produced for each series of examinations and is freely available to download at [http://www.cambridgeinternational.org](http://www.cambridgeinternational.org) after the live examination series."
+      }
+    }
+  ]
+}

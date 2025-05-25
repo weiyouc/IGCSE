@@ -1,0 +1,441 @@
+{
+  "title": "IGCSE Physics Summer 2020 Paper 13",
+  "subject": "Physics",
+  "description": "Cambridge IGCSE Physics Past Paper 0625_s20_qp_13",
+  "duration": 45,
+  "difficultyLevel": "beginner",
+  "isPublished": true,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionText": "",
+      "options": {
+        "A": "120 cm^3",
+        "B": "168 cm^3",
+        "C": "264 cm^3",
+        "D": "1155 cm^3"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "questionNumber": 2,
+      "questionText": "The speed\u2013time graph shows the motion of an object. #### 0 #### 0 #### 5 #### 5 10 15 20 25 speed m / s time / s How far does the object travel at constant speed?",
+      "options": {
+        "A": "25 m",
+        "B": "50 m",
+        "C": "75 m",
+        "D": "125 m \n\n\n\u00a9 UCLES 2020 0625/13/M/J/20 **[Turn over**"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "questionNumber": 3,
+      "questionText": "Which statement about acceleration is correct?",
+      "options": {
+        "A": "It is related to the changing speed of an object.",
+        "B": "It is the distance an object travels in one second.",
+        "C": "It is the force acting on an object divided by the distance it travels in one second.",
+        "D": "It is the force acting on an object when it is near to the Earth."
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "questionNumber": 4,
+      "questionText": "Two metal blocks P and Q have identical dimensions. They hang on identical spring balances. #### 0 1 2 3 4 6 #### 5 #### N 0 1 2 3 4 6 #### 5 #### N #### Q #### P Which statement about P and Q is correct?",
+      "options": {
+        "A": "They have different volumes and different weights.",
+        "B": "They have different volumes and equal weights.",
+        "C": "They have equal volumes and equal weights.",
+        "D": "They have equal volumes and different weights."
+      },
+      "correctAnswer": "D"
+    },
+    {
+      "questionNumber": 5,
+      "questionText": "Which row gives the correct weight for the mass shown? The value of g is 10 N / kg. mass / kg weight / N",
+      "options": {
+        "A": "2 20",
+        "B": "10 1",
+        "C": "10 10",
+        "D": "20 2 \n\n\n\u00a9 UCLES 2020 0625/13/M/J/20"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "questionNumber": 6,
+      "questionText": "",
+      "options": {
+        "A": "rectangular gymnasium is 50 m long, 25 m wide and 8.0 m high. \n\n The density of air is 1.2 kg / m^3. \n\n What is the best estimate of the mass of air in the gymnasium?",
+        "B": "100 kg",
+        "C": "8300 kg",
+        "D": "12 000 kg"
+      },
+      "correctAnswer": "D"
+    },
+    {
+      "questionNumber": 7,
+      "questionText": "The diagram shows two of the three vertical forces acting on a hot-air balloon. The hot-air balloon is moving upwards at constant speed. upthrust = 2500 N weight = 2200 N What is the air resistance acting on the hot-air balloon?",
+      "options": {
+        "A": "300 N downwards",
+        "B": "300 N upwards",
+        "C": "4700 N downwards",
+        "D": "4700 N upwards"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "questionNumber": 8,
+      "questionText": "Which statement about the moment of a force is **not** correct?",
+      "options": {
+        "A": "If an object is balanced about a pivot the resultant moment on the object must be zero.",
+        "B": "The moment of a force is a measure of its turning effect.",
+        "C": "The moment of a force about a point is equal to: force \u00d7 perpendicular distance from the point.",
+        "D": "The moment of a force about a point increases when the perpendicular distance of the force from the point decreases. \n\n\n\u00a9 UCLES 2020 0625/13/M/J/20 **[Turn over**"
+      },
+      "correctAnswer": "D"
+    },
+    {
+      "questionNumber": 9,
+      "questionText": "",
+      "options": {
+        "A": "mass bounces up and down on a steel spring. The diagram shows the mass and the spring at different points during the motion. \n\n highest point \n\n lowest point \n\n mass moving down \n\n mass moving up \n\n At which point does the mass have the least gravitational potential energy and at which point is the most elastic energy stored in the spring? \n\n least amount of gravitational potential energy \n\n most elastic energy stored in spring",
+        "B": "mass moving down lowest point",
+        "C": "lowest point mass moving up",
+        "D": "lowest point lowest point"
+      },
+      "correctAnswer": "D"
+    },
+    {
+      "questionNumber": 10,
+      "questionText": "Which energy resource stores kinetic energy?",
+      "options": {
+        "A": "coal",
+        "B": "nuclear fission",
+        "C": "solar",
+        "D": "wind \n\n\n\u00a9 UCLES 2020 0625/13/M/J/20"
+      },
+      "correctAnswer": "D"
+    },
+    {
+      "questionNumber": 11,
+      "questionText": "",
+      "options": {
+        "A": "man can either take an escalator or a lift to travel up between two floors in a hotel. \n\n escalator lift \n\n The escalator takes 20 seconds to carry the man between the two floors. The useful work done against gravity is W. The useful power developed is P. \n\n The lift takes 30 seconds to carry the same man between the same two floors. \n\n How much useful work against gravity is done by the lift, and how much useful power is developed by the lift? \n\n useful work done against gravity by lift \n\n useful power developed by lift",
+        "B": "more than W P",
+        "C": "W less than P",
+        "D": "W P \n\n\n\u00a9 UCLES 2020 0625/13/M/J/20 **[Turn over**"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "questionNumber": 12,
+      "questionText": "The diagram shows a solid block resting on a bench. The dimensions of the block are shown. bench 80 cm 20 cm 40 cm #### P #### R #### Q On which labelled surface should the block rest to produce the smallest pressure on the bench?",
+      "options": {
+        "A": "P",
+        "B": "Q",
+        "C": "R",
+        "D": "P, Q and R produce the same pressure"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "questionNumber": 13,
+      "questionText": "The diagram shows a U-shaped glass tube, closed at one end by a tap. The glass tube contains a liquid as shown. #### X #### Y atmospheric pressure trapped gas closed tap liquid Some of the trapped gas is removed. What will happen to the levels X and Y? level X level Y",
+      "options": {
+        "A": "higher lower",
+        "B": "higher higher",
+        "C": "lower higher",
+        "D": "lower lower \n\n\n\u00a9 UCLES 2020 0625/13/M/J/20"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "questionNumber": 14,
+      "questionText": "What is the correct particle diagram for a solid?",
+      "options": {
+        "A": "B",
+        "C": "D"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "questionNumber": 15,
+      "questionText": "",
+      "options": {
+        "A": "sealed box contains a fixed mass of gas. \n\n Which action results in each molecule of the gas colliding with the walls of the container less frequently and with a smaller force?",
+        "B": "Decrease the volume of the container.",
+        "C": "Increase the temperature of the gas.",
+        "D": "Increase the volume of the container."
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "questionNumber": 16,
+      "questionText": "The diagram shows a liquid-in-glass thermometer. X Y Which row gives the correct labels for the thermometer? #### X Y",
+      "options": {
+        "A": "water narrow tube of uniform diameter",
+        "B": "alcohol narrow tube of uniform diameter",
+        "C": "water this end immersed in substance to be measured",
+        "D": "alcohol this end immersed in substance to be measured \n\n\n\u00a9 UCLES 2020 0625/13/M/J/20 **[Turn over**"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "questionNumber": 17,
+      "questionText": "The diagrams show four blocks of steel. The blocks are all drawn to the same scale. The same quantity of thermal energy is given to each block. Which block shows the greatest rise in temperature?",
+      "options": {
+        "A": "B",
+        "C": "D"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "questionNumber": 18,
+      "questionText": "",
+      "options": {
+        "A": "gas is cooled so that its molecules move more slowly, come closer together and do not move freely. \n\n Which process is being described?",
+        "B": "condensing",
+        "C": "freezing",
+        "D": "melting"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "questionNumber": 19,
+      "questionText": "The diagram shows a vacuum flask used to keep a liquid warm. airtight lid outer cover vacuum silvered walls Which methods of heat loss are reduced by the vacuum between the silvered walls?",
+      "options": {
+        "A": "conduction only",
+        "B": "conduction and convection only",
+        "C": "convection and radiation only",
+        "D": "conduction, convection and radiation \n\n\n\u00a9 UCLES 2020 0625/13/M/J/20"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "questionNumber": 20,
+      "questionText": "Equal volumes of water at 100 \u00b0",
+      "options": {
+        "C": "are put in four containers. Two containers have matt black sides and two containers have shiny white sides. One of each type of container has a lid. \n\n The containers are left for two minutes. \n\n Which container has the highest temperature?",
+        "A": "matt black sides \n\n####",
+        "B": "matt black sides \n\n lid \n\n####",
+        "D": "shiny white sides \n\n lid"
+      },
+      "correctAnswer": "D"
+    },
+    {
+      "questionNumber": 21,
+      "questionText": "The diagram shows a wave. 8 cm 4 cm 3 cm 6 cm What are the amplitude and the wavelength of this wave? amplitude / cm wavelength / cm",
+      "options": {
+        "A": "3 4",
+        "B": "3 8",
+        "C": "6 4",
+        "D": "6 8 \n\n\n\u00a9 UCLES 2020 0625/13/M/J/20 **[Turn over**"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "questionNumber": 22,
+      "questionText": "Waves travel more quickly on the surface of water when the water is deep.",
+      "options": {
+        "A": "stone is dropped at point X into a pool of varying depth. The diagram shows the first three wavefronts on the surface of the pool. \n\n The region between X and which labelled point is likely to be the deepest? \n\n wavefronts \n\n####",
+        "B": "####",
+        "D": "####",
+        "C": "#### X"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "questionNumber": 23,
+      "questionText": "The diagram shows a ray of light incident on a plane mirror. #### 35 \u00b0 mirror The angle between the ray and the mirror is 35\u00b0. The ray is reflected by the mirror. What is the angle of reflection?",
+      "options": {
+        "A": "35 \u00b0",
+        "B": "55 \u00b0",
+        "C": "70 \u00b0",
+        "D": "110 \u00b0"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "questionNumber": 24,
+      "questionText": "",
+      "options": {
+        "A": "beam of white light is split into a spectrum of seven colours. \n\n Which name is given to this process?",
+        "B": "dispersion",
+        "C": "reflection",
+        "D": "refraction \n\n\n\u00a9 UCLES 2020 0625/13/M/J/20"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "questionNumber": 25,
+      "questionText": "",
+      "options": {
+        "A": "infrared",
+        "B": "radio",
+        "C": "ultraviolet",
+        "D": "visible light"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "questionNumber": 26,
+      "questionText": "",
+      "options": {
+        "A": "tuning fork produces a sound when it vibrates. \n\n What is the effect on the sound produced when the tuning fork vibrates more times every second and with a larger amplitude?",
+        "B": "higher pitch and louder",
+        "C": "lower pitch and less loud",
+        "D": "lower pitch and louder"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "questionNumber": 27,
+      "questionText": "The diagram shows a magnet with some plotting compasses. The compasses show the direction of the magnetic field of the magnet. Which plotting compass has the needle pointing in the wrong direction? #### N S ####",
+      "options": {
+        "A": "####",
+        "C": "####",
+        "D": "B \n\n\n\u00a9 UCLES 2020 0625/13/M/J/20 **[Turn over**"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "questionNumber": 28,
+      "questionText": "Four nails",
+      "options": {
+        "A": ",",
+        "B": ",",
+        "C": "and",
+        "D": "are tested to find which makes the strongest permanent magnet. \n\n One of the nails is placed against a bar magnet and the number of paper clips which the nail can support is recorded. \n\n#### N S \n\n nail \n\n bar magnet \n\n paper clips \n\n The bar magnet is then removed and the number of paper clips remaining attached to the nail is recorded. Each nail is tested individually. \n\n Which nail becomes the strongest permanent magnet? \n\n number of paper clips attached to the nail \n\n bar magnet present bar magnet removed \n\n A 2 0 \n\n B 2 1 \n\n C 4 3 \n\n D 5 2"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "questionNumber": 29,
+      "questionText": "The diagram shows a positively charged conducting sphere and a wire connected to earth. #### + #### + #### + #### + #### + #### + earth insulating support positively charged sphere wire What happens when the wire is touched onto the sphere?",
+      "options": {
+        "A": "Electrons flow from earth to the sphere.",
+        "B": "Electrons flow from the sphere to earth.",
+        "C": "Positive charges flow from earth to the sphere.",
+        "D": "Positive charges flow from the sphere to earth. \n\n\n\u00a9 UCLES 2020 0625/13/M/J/20"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "questionNumber": 30,
+      "questionText": "Three electrical quantities are listed. \u25cf potential difference \u25cf electromotive force \u25cf current Which quantities are measured in volts?",
+      "options": {
+        "A": "potential difference only",
+        "B": "potential difference and current only",
+        "C": "potential difference and electromotive force only",
+        "D": "potential difference, electromotive force and current"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "questionNumber": 31,
+      "questionText": "",
+      "options": {
+        "A": "student uses the circuit shown to determine the resistance of two identical resistors. \n\n####",
+        "B": "0.55 \u03a9",
+        "C": "4.4 \u03a9",
+        "D": "8.8 \u03a9"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "questionNumber": 32,
+      "questionText": "The diagram shows part of a circuit containing three identical lamps. ### W ### X ### Y ### Z",
+      "options": {
+        "A": "W and X",
+        "B": "W and Z",
+        "C": "X and Y",
+        "D": "Y and Z \n\n\n\u00a9 UCLES 2020 0625/13/M/J/20 **[Turn over**"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "questionNumber": 33,
+      "questionText": "Which circuit contains a thermistor and a heater?",
+      "options": {
+        "A": "B \n\n####",
+        "C": "D"
+      },
+      "correctAnswer": "D"
+    },
+    {
+      "questionNumber": 34,
+      "questionText": "",
+      "options": {
+        "A": "student constructs four circuits, each containing a fuse. \n\n The fuse blows in one circuit and both lamps in the circuit go out. \n\n In which circuit does the fuse blow and both lamps go out?",
+        "C": "D \n\n\n\u00a9 UCLES 2020 0625/13/M/J/20"
+      },
+      "correctAnswer": "D"
+    },
+    {
+      "questionNumber": 35,
+      "questionText": "The graphs show how the currents in three circuits vary with time. #### 1.5 #### 1.0 #### 0.5 #### 0.0 #### \u20130.5 #### \u20131.0 #### \u20131.5 time circuit 2 current /",
+      "options": {
+        "A": "#### 1.5 \n\n#### 1.0 \n\n#### 0.5 \n\n#### 0.0 \n\n#### \u20130.5 \n\n#### \u20131.0 \n\n#### \u20131.5 \n\n time \n\n circuit 1 \n\n current /",
+        "B": "1 and 3",
+        "C": "2 only",
+        "D": "3 only"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "questionNumber": 36,
+      "questionText": "The diagram represents the transmission of electricity from a power station to homes that are many kilometres away. Two transformers are labelled X and Y. #### X Y large distance power station houses cables pylon pylon transmission cables ground What type of transformers are X and Y? #### X Y",
+      "options": {
+        "A": "step-down transformer step-down transformer",
+        "B": "step-down transformer step-up transformer",
+        "C": "step-up transformer step-down transformer",
+        "D": "step-up transformer step-up transformer \n\n\n\u00a9 UCLES 2020 0625/13/M/J/20 **[Turn over**"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "questionNumber": 37,
+      "questionText": "",
+      "options": {
+        "A": "nuclide of the element iron has the symbol shown. \n\n#### 56 \n\n## 26 Fe \n\n What does a neutral atom of this nuclide contain? \n\n protons neutrons electrons",
+        "B": "26 56 30",
+        "C": "30 26 56",
+        "D": "56 26 30"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "questionNumber": 38,
+      "questionText": "The diagram shows an early model of the structure of an atom. negatively charged electron ball of positive charge This early model is different from the atomic model accepted today. Which statement about the early model is not included in the model accepted today?",
+      "options": {
+        "A": "The atom is mainly filled with a ball of positive charge.",
+        "B": "The electrons are negatively charged.",
+        "C": "There are positive and negative charges.",
+        "D": "There are small particles called electrons. \n\n\n\u00a9 UCLES 2020 0625/13/M/J/20"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "questionNumber": 39,
+      "questionText": "",
+      "options": {
+        "A": "thin sheet of paper is placed between a radioactive source and a radiation detector. The count rate falls to a very low reading. \n\n source \n\n paper \n\n detector \n\n counter \n\n From this result, which type of radiation is the source emitting?",
+        "B": "\u03b2-particles",
+        "C": "\u03b3-rays",
+        "D": "X-rays"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "questionNumber": 40,
+      "questionText": "Why should all radioactive materials be handled carefully?",
+      "options": {
+        "A": "They all make anything they touch radioactive.",
+        "B": "They all catch fire very easily.",
+        "C": "They all emit ionising radiation.",
+        "D": "They all have long half-lives. \n\n\n\u00a9 UCLES 2020 0625/13/M/J/20 \n\n#### BLANK PAGE \n\n\nPermission to reproduce items where third-party owned material protected by copyright is included has been sought and cleared where possible. Every reasonable effort has been made by the publisher (UCLES) to trace copyright holders, but if any items requiring clearance have unwittingly been included, the publisher will be pleased to make amends at the earliest possible opportunity. \n\nTo avoid the issue of disclosure of answer-related information to candidates, all copyright acknowledgements are reproduced online in the Cambridge Assessment International Education Copyright Acknowledgements Booklet. This is produced for each series of examinations and is freely available to download at [http://www.cambridgeinternational.org](http://www.cambridgeinternational.org) after the live examination series. \n\nCambridge Assessment International Education is part of the Cambridge Assessment Group. Cambridge Assessment is the brand name of the University of Cambridge Local Examinations Syndicate (UCLES), which itself is a department of the University of Cambridge. \n\n\u00a9 UCLES 2020 0625/13/M/J/20 \n\n#### BLANK PAGE"
+      },
+      "correctAnswer": "C"
+    }
+  ]
+}

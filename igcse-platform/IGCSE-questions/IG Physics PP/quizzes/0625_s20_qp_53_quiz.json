@@ -1,0 +1,39 @@
+{
+  "title": "IGCSE Physics Summer 2020 Paper 53",
+  "subject": "Physics",
+  "description": "Cambridge IGCSE Physics Past Paper 0625_s20_qp_53",
+  "duration": 45,
+  "difficultyLevel": "advanced",
+  "isPublished": true,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionText": "In this experiment, you will determine the weight of a metre rule.",
+      "options": {
+        "A": "student carrying out this experiment places the 200 g mass on the metre rule instead of hanging it from the loop of thread. Suggest which of these is likely to be the more accurate method. Explain your answer by reference to the procedure. ................................................................................................................................................... ................................................................................................................................................... ............................................................................................................................................. [1] [Total: 11] \n\n\n**\u00a9UCLES 2020 0625/53/M/J/20 [Turn over**"
+      }
+    },
+    {
+      "questionNumber": 2,
+      "questionText": "In this experiment, you will investigate a circuit containing different combinations of resistors. The circuit has been set up for you.",
+      "options": {
+        "A": "## V \n\n Fig. 2.1 (a) (i) Switch on. Measure the potential difference V 1 and the current I 1 in the circuit. V 1 = .......................................................... I 1 = .......................................................... [1] Switch off. (ii) Calculate a resistance R 1 using your values from (a)(i) and the equation R 1 = V I 11. \n\n## R 1 = .................................................... [1] \n\n (b) (i) Connect both resistors in series between terminals P and Q as shown in Fig. 2.2. \n\n P Q Fig. 2.2 Switch on. Measure the potential difference V 2 and the current I 2 in the circuit. V 2 = .......................................................... I 2 = .......................................................... [1] Switch off. \n\n\n**\u00a9UCLES 2020 0625/53/M/J/20** \n\n**(ii)** Calculate a resistance _R_ 2 using your values from **(b)(i)** and the equation _R_ 2 = (^) _(I_ 2 _V_ \u00d7 2)^2. \n\n## R 2 = .................................................... [1] \n\n (c) (i) Connect both resistors in parallel between terminals P and Q as shown in Fig. 2.3. \n\n## P Q \n\n Fig. 2.3 Switch on. Measure the potential difference V 3 and the current I 3 in the circuit. V 3 = .......................................................... I 3 = .......................................................... [1] Switch off. (ii) Calculate a resistance R 3 using your values from (c)(i) and the equation R 3 = (V^3 I^ \u00d7 2) 3. \n\n## R 3 = .................................................... [1] \n\n (d)"
+      }
+    },
+    {
+      "questionNumber": 3,
+      "questionText": "In this experiment you will determine the focal length of a converging lens.",
+      "options": {
+        "C": "arry out the following instructions, referring to Fig. 3.1. illuminated triangle _u_ lens \n\n v screen bench \n\n Fig. 3.1 Method 1 (a)",
+        "A": "rrange the apparatus as shown in Fig. 3.1. Place the lens a distance u = 20.0 cm from the illuminated triangle. Place the screen near the lens. Move the screen until a sharp image of the triangle is seen on the screen. (i) Measure the distance v between the lens and the screen as indicated in Fig. 3.1. v = .................................................... [1] (ii)"
+      }
+    },
+    {
+      "questionNumber": 4,
+      "questionText": "",
+      "options": {
+        "A": "student investigates the factors affecting the electrical output of a solar cell."
+      }
+    }
+  ]
+}

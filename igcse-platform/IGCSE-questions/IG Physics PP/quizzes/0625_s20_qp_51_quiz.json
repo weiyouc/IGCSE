@@ -1,0 +1,43 @@
+{
+  "title": "IGCSE Physics Summer 2020 Paper 51",
+  "subject": "Physics",
+  "description": "Cambridge IGCSE Physics Past Paper 0625_s20_qp_51",
+  "duration": 45,
+  "difficultyLevel": "advanced",
+  "isPublished": true,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionText": "In this experiment, you will investigate the balancing of a metre rule.",
+      "options": {
+        "C": "arry out the following instructions, referring to Fig. 1.1. \n\n 90.0 cm mark \n\n load 50.0^ cm mark x Q 0 100 \n\n metre rule \n\n pivot bench \n\n weight P \n\n Fig. 1.1 (a) \n\n- Place the metre rule on the pivot at the 50.0 cm mark. \n\n- Place the object Q with its centre on the metre rule at the 90.0 cm mark. \n\n- Place a load of weight _P_ = 2.0 N on the metre rule. \n\n-",
+        "A": "djust the position of the load so that the metre rule is as near as possible to being     balanced and horizontal. **(i)** Measure, and record in Table 1.1, the distance _x_ from the centre of the load to the pivot. Record also the weight of the load. [1] **(ii)**"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "questionNumber": 2,
+      "questionText": "In this experiment, you will determine the resistances of filament lamps.",
+      "options": {
+        "A": "## V \n\n power supply \n\nL (^1) **Fig. 2.1 (a)** Switch on. **(i)** Measure the current _I_ 1 in the circuit. _I_ 1 = ..................................................",
+        "B": ": R 1 + R 2 + R 3 should be less than 3 \u00d7 R 1. Suggestion",
+        "C": ": R 1 + R 2 + R 3 should be greater than 3 \u00d7 R 1. State which suggestion,"
+      }
+    },
+    {
+      "questionNumber": 3,
+      "questionText": "In this experiment you will investigate the position of the image in a plane mirror.",
+      "options": {
+        "A": "## L \n\n## N \n\n## M",
+        "B": "R \n\n Fig. 3.1 \n\n\n**\u00a9UCLES 2020 0625/51/M/J/20 [Turn over** \n\n (a) (i) Draw a line 10 cm long near the middle of the ray-trace sheet. Label the line MR. Draw a normal to this line that passes through the centre of MR. Label the normal NL. Label the point at which NL crosses MR with the letter B. [1] (ii) Draw a line 7.0 cm long from"
+      }
+    },
+    {
+      "questionNumber": 4,
+      "questionText": "",
+      "options": {
+        "A": "student investigates the effect of the colour of the surface of a metal container on the rate of loss of heat from the container. She knows that black surfaces are better radiators of thermal energy than white surfaces and wants to investigate the effect of other colours. The following apparatus is available: metal containers each with the outer surface painted a different colour a thermometer a stop-watch a supply of hot water. She can also use other apparatus and materials that are usually available in a school laboratory. Plan an experiment to investigate the effect of the colour of the surface of a metal container on the rate of loss of heat from the container. You are **not** required to carry out this investigation. You should: \n\n- draw a diagram of the apparatus used \n\n- explain briefly how you would carry out the investigation \n\n- state the key variables that you would control \n\n- draw a table, or tables, with column headings, to show how you would display your readings     (you are **not** required to enter any readings in the table) \n\n- explain how you would use your readings to reach a conclusion. \n\n## .......................................................................................................................................................... \n\n## .......................................................................................................................................................... \n\n## .......................................................................................................................................................... \n\n## .......................................................................................................................................................... \n\n\n**\u00a9UCLES 2020 0625/51/M/J/20** \n\nPermission to reproduce items where third-party owned material protected by copyright is included has been sought and cleared where possible. Everyreasonable effort has been made by the publisher (UCLES) to trace copyright holders, but if any items requiring clearance have unwittingly been included, the publisher will be pleased to make amends at the earliest possible opportunity. To avoid the issue of disclosure of answer-related information to candidates, all copyright acknowledgements are reproduced online in the CambridgeAssessment International Education Copyright Acknowledgements Booklet. This is produced for each series of examinations and is freely available to download at [http://www.cambridgeinternational.org](http://www.cambridgeinternational.org) after the live examination series. Cambridge Assessment International Education is part of the Cambridge Assessment Group. Cambridge Assessment is the brand name of the University ofCambridge Local Examinations Syndicate (UCLES), which itself is a department of the University of Cambridge. \n\n## .......................................................................................................................................................... \n\n## .......................................................................................................................................................... \n\n## .......................................................................................................................................................... \n\n## .......................................................................................................................................................... \n\n## .......................................................................................................................................................... \n\n## .......................................................................................................................................................... \n\n## .......................................................................................................................................................... \n\n## .......................................................................................................................................................... \n\n## .......................................................................................................................................................... \n\n## .......................................................................................................................................................... \n\n## .......................................................................................................................................................... \n\n## .......................................................................................................................................................... \n\n## .......................................................................................................................................................... \n\n## .......................................................................................................................................................... \n\n## .......................................................................................................................................................... \n\n## .......................................................................................................................................................... \n\n## .......................................................................................................................................................... \n\n## .................................................................................................................................................... [7] \n\n [Total: 7]"
+      }
+    }
+  ]
+}
