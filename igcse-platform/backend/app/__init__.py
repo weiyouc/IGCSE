@@ -3,19 +3,22 @@ from flask_sqlalchemy import SQLAlchemy
 from flask_migrate import Migrate
 # from flask_jwt_extended import JWTManager # Will be added when JWT is fully implemented
 
-from ..config import Config # Adjusted path to config
+# from ..config import Config # Adjusted path to config
+from ..config import config # Import the config dictionary
 
 # Initialize extensions
 db = SQLAlchemy()
 migrate = Migrate()
 # jwt = JWTManager() # Will be added when JWT is fully implemented
 
-def create_app(config_class=Config):
+def create_app(config_name='default'):
     """
     Factory function to create and configure the Flask application.
     """
     app = Flask(__name__)
-    app.config.from_object(config_class)
+    # app.config.from_object(config_class)
+    app.config.from_object(config[config_name])
+
 
     # Initialize Flask extensions here
     db.init_app(app)
@@ -53,6 +56,9 @@ def create_app(config_class=Config):
 
     from .routes.study_session_routes import study_session_bp # Import study_session blueprint
     app.register_blueprint(study_session_bp) # Register study_session blueprint
+
+    from .routes.question_routes import question_bp # Import question blueprint
+    app.register_blueprint(question_bp) # Register question blueprint
 
     # Import models here to ensure they are registered with SQLAlchemy
     # before any database operations (like db.create_all() or migrations)
