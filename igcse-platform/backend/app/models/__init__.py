@@ -5,6 +5,7 @@ from .admin_model import Admin
 from .subject_model import Subject
 from .exam_model import Exam
 from .student_exam_attempt_model import StudentExamAttempt
+from .similar_question_model import SimilarQuestion
 
 __all__ = [
     "Base",
@@ -19,4 +20,5 @@ __all__ = [
     "ErrorLog",
     "StudyTask",
     "StudySession", # Add StudySession here
+    "SimilarQuestion",
 ]
